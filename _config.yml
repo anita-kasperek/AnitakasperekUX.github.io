@@ -2,10 +2,10 @@ remote_theme: eliottvincent/bay
 
 header:
   pages:
-    - name: O mnie
+    - name: O mnie |
       slug: /
-    - name: Case Study
-    - name: CV | Kontakt
+    - name: Case Study |
+    - name: CV
 
 footer:
   show_powered_by: true
