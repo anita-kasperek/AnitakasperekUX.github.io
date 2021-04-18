@@ -3,7 +3,7 @@ remote_theme: eliottvincent/bay
 header:
   pages:
     - name: O mnie
-       slug: /
+      slug: /
     - name: Work
     - name: Blog
 
