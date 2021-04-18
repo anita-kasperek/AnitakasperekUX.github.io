@@ -2,13 +2,9 @@
 layout: work
 title: Work
 slug: /work
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+  # No siema morda.
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/Webp.net-gifmaker.gif" width="300" height="400" />
  
-
-
 <br />
 <br />
