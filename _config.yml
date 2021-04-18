@@ -4,8 +4,9 @@ header:
   pages:
     - name: O mnie
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Portfolio
+    - name: Doświadczenie
+    - name: Artykuły
 
 footer:
   show_powered_by: true
