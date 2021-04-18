@@ -3,4 +3,4 @@ I'm a UX Enthusiast and this repository is where I shared my case study, and a r
 
 
 
-If you would like to share some thoughts, I'd love to hear any feedback!
+If you'd like to add any insights, I'd love to hear any feedback!
