@@ -2,6 +2,7 @@ remote_theme: eliottvincent/bay
 
 header:
   pages:
+    - name: Home
       slug: /
     - name: Work
     - name: Blog
