@@ -6,9 +6,12 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+ Miło że wpadłeś!:wave:  :partying_face:
+Jestem entuzjastką UX i Produkt Designu a na ta strona to moje Portfolio.
+Znajdziesz w nim Case Study i moje CV. 
+Jeśli masz chęć podzielić się uwagami, napisz do mnie! :envelope:<a href="http://dangrover.com">website</a>.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Tutaj nie wiem co jest  <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
