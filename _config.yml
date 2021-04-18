@@ -2,10 +2,10 @@ remote_theme: eliottvincent/bay
 
 header:
   pages:
-    - name: O mnie   |
+    - name: Home
       slug: /
     - name: Work
-    - name: CV
+    - name: Blog
 
 footer:
   show_powered_by: true
