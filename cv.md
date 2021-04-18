@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: cv
+title: Doświadczenie
 slug: /cv
 ---
 
