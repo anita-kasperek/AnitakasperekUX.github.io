@@ -3,14 +3,14 @@ layout: cv
 title: CV
 slug: /CV
 ---
+layout: cv
+title: CV
+slug: /CV
+---
 
 Tutaj dam swoje cv. 
 
----
-layout: cv
-title: Doświadczenie
-slug: /Doświadczenie
----
+
 
 Moje doświadczenie zawodowe nie jest związane czysto z branżą technolgoiczną (mimo, że interesuję się UX Designem od dobrych paru lat) 
 
