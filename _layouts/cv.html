@@ -7,22 +7,6 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="cv">
-          <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
-
-          <p class="cv-post-list">
-            {% for post in site.posts %}
-
-              {% if post.draft != true %}
-                <span class="cv-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="cv-post-title">
-                  {{ post.title }}
-                </a>
-              {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
         <div class="doświadczenie">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
@@ -35,6 +19,24 @@
                 <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="doświadczenie-post-title">
                   {{ post.title }}
                 </a>
+            
+            {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="cv">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+
+          <p class="cv-post-list">
+            {% for post in site.posts %}
+
+              {% if post.draft != true %}
+                <span class="cv-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
+                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="cv-post-title">
+                  {{ post.title }}
+                </a>
+            
             
                 <br />
 
