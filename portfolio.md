@@ -1,7 +1,7 @@
 ---
 layout: work
-title: Work
-slug: /work
+title: portfolio
+slug: /portfolio
 items:
   ----
 layout: post
