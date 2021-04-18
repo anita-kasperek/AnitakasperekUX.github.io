@@ -3,9 +3,9 @@ remote_theme: eliottvincent/bay
 header:
   pages:
     - name: O mnie
-      slug: /
-    - name: Posts
-    - name: CV
+       slug: /
+    - name: Work
+    - name: Blog
 
 footer:
   show_powered_by: true
