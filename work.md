@@ -15,9 +15,9 @@ items:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 ---
 
-#No siema morda.
-<"https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/Webp.net-gifmaker.gif">
+# No siema morda.
 
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/Webp.net-gifmaker.gif" width="200" height="200" />
  
  
 
