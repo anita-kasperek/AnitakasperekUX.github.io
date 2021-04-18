@@ -5,7 +5,7 @@ slug: /portfolio
 items:
   ----
 layout: post
-title:  "Case Study"
+title:  "Portfolio / Case Study"
 date:  Marzec-Kwiecień-2021
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
