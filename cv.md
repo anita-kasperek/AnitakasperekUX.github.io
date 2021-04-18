@@ -3,10 +3,11 @@ layout: cv
 title: CV
 slug: /CV
 ---
-layout: cv
-title: CV
-slug: /CV
----
+| layout | title | slug |
+| ------ | ----- | ---- |
+| cv     | CV    | /CV  |
+
+
 
 Tutaj dam swoje cv. 
 
