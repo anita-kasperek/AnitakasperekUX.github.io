@@ -1,5 +1,5 @@
 ---
-layout: Doświadczenie
+layout: work
 title: Doświadczenie
 slug: /Doświadczenie
 items:
