@@ -7,41 +7,24 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="doświadczenie">
-          <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
-
-          <p class="doświadczenie-post-list">
-            {% for post in site.posts %}
-
-              {% if post.draft != true %}
-                <span class="doświadczenie-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="doświadczenie-post-title">
-                  {{ post.title }}
-                </a>
-            
-            {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
         <div class="cv">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
-          <p class="cv-post-list">
-            {% for post in site.posts %}
-
-              {% if post.draft != true %}
-                <span class="cv-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="cv-post-title">
-                  {{ post.title }}
-                </a>
-            
-            {% endif %}
-                <br />
-
-            {% endfor %}
-          </p>
+          {% for item in page.items %}
+          <div class="cv-item">
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="cv-bubble"
+            />
+            <span class="work-text">
+              <strong>{{ item.title }}</strong>
+              &mdash;
+              {{ item.description }}
+            </span>
+          </div>
+          {% endfor %}
         </div>
       </div>
     </div>
