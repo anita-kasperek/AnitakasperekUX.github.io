@@ -6,8 +6,7 @@ profile_picture:
 
 <p>
  Miło że wpadłeś! :sparkles: :sparkles: :wave: 
-Jestem entuzjastką UX i Produkt Designu, a ta strona jest formą autoprezentacji, 
-aby pokazać swój sposób myślenia,jako przyszły Projektant :blush:
-Znajdziesz w nim jedno Studium Przypadku, kontakt do mnie, oraz moje cv. 
+Jestem entuzjastką UX i Produkt Designu, a ta strona jest formą prezentacji swojego sposobu myślenia,jako przyszły Projektant :blush: <br><br>
+- Znajdziesz w nim jedno Studium Przypadku, kontakt do mnie, oraz moje cv. 
 Gdybyś miał ochotę podzielić się uwagami,   napisz do <a href="https://www.linkedin.com/in/anita-kasperek/">mnie!</a>. :envelope:.
 </p> 
