@@ -3,8 +3,11 @@ layout: cv
 title: CV
 slug: /CV
 ---
-Tutaj dam swoje cv. 
+<img src="{{ "/assets/img/cv-anita-kasperek.png" | absolute_url }}" alt="bay" class="post-pic"/>
+<br />
+<br />
 
+Możesz  [otworzyć CV tu](https://unsplash.com/@bkotynski).
 
 
 ## Doświadczenie
