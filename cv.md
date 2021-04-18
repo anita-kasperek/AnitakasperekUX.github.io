@@ -1,5 +1,13 @@
 ---
 layout: blog
+title: CV
+slug: /Ve
+---
+
+Tutaj dam swoje cv. 
+
+---
+layout: blog
 title: Doświadczenie
 slug: /Doświadczenie
 ---
