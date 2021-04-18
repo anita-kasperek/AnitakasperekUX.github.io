@@ -4,7 +4,7 @@ header:
   pages:
     - name: O mnie
       slug: /
-    - name: Portfolio
+    - name: Posts
     - name: CV
 
 footer:
