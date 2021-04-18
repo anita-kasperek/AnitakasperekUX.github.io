@@ -4,8 +4,8 @@ header:
   pages:
     - name: O mnie
       slug: /
-    - name: Portfolio
     - name: Blog
+    - name: Portfolio
 
 footer:
   show_powered_by: true
