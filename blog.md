@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: portfolio
+title: Portfolio
+slug: /portfolio
 ---
