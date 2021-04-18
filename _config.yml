@@ -5,6 +5,7 @@ header:
     - name: O mnie
       slug: /
     - name: Portfolio
+    - name: CV
 
 footer:
   show_powered_by: true
