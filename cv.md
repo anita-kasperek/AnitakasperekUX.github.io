@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: cv
 title: CV
 slug: /CV
 ---
@@ -7,6 +7,7 @@ slug: /CV
 Tutaj dam swoje cv. 
 
 ---
+layout: cv
 title: Doświadczenie
 slug: /Doświadczenie
 ---
