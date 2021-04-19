@@ -25,7 +25,7 @@ Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z w
 
 | Coś  | Zdjęcie                                                      |
 | ---- | ------------------------------------------------------------ |
-| CV   | https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%402x.jpg |
+| CV   | ![](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%402x.jpg) |
 
 # #
 
