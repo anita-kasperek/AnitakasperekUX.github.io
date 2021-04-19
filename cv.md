@@ -1,6 +1,10 @@
+
 ---
-##Coś CV
+layout: o-mnie
+profile_picture:
+  src: UMC UMC 
 ---
+
 Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)
 
 otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem.
