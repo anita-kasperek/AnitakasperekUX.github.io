@@ -7,6 +7,6 @@ profile_picture:
 <p>
  Miło że wpadłeś! :sparkles: :wave: <br>
 Jestem entuzjastką UX i Produkt Designu, a ta strona jest formą prezentacji swojego sposobu myślenia,jako przyszły Projektant :blush: <br><br>
-Znajdziesz w nim moje <a href="https://anitakasperekux.github.io/portfolio">, kontakt do mnie, oraz moje cv. 
-Gdybyś miał ochotę podzielić się uwagami,   napisz do <a href="https://www.linkedin.com/in/anita-kasperek/">mnie!</a>. :envelope:.
+Znajdziesz w nim analizę przypadku <a href="https://anitakasperekux.github.io/portfolio"> , kontakt do mnie, oraz moje cv. 
+Gdybyś miał ochotę podzielić się uwagami, napisz do <a href="https://www.linkedin.com/in/anita-kasperek/">mnie!</a>. :envelope:.
 </p> 
