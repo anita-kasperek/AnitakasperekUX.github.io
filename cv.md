@@ -22,6 +22,13 @@ Myślę że może być traktowany, jako plus.
 Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z wykonawcami i efekt końcowy, która to inwestycja zwiększyła wartość o conajmniej conajmniej 28%  i przynosi roczną stopę zwrotu na poziomie 18%
 <br />
 <br>
+
+| Coś  | Zdjęcie                                                      |
+| ---- | ------------------------------------------------------------ |
+| CV   | https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%402x.jpg |
+
+# #
+
 ## CV
 
 Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)
