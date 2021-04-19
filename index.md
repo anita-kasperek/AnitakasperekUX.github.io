@@ -2,10 +2,12 @@
 
 layout: o-mnie
 profile_picture:
-src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
+  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:20%;" />
 ---
 
 [kontakt do mnie](#footer)
+
 
  Miło że wpadłeś! :sparkles: :wave: <br>
 Jestem entuzjastką UX i Produkt Designu, a ta strona stara się pokazać mój sposób myślenia,jako Projektant :blush: <br><br>
