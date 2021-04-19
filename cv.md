@@ -4,22 +4,44 @@ title:
 ---
 ## Doświadczenie
 
-Moje doświadczenie zawodowe nie jest związane czysto z branżą technolgoiczną (mimo, że interesuję się UX Designem od dobrych paru lat) 
+Jako że nie byłam związana zawodowo z branżą IT,
 
-Za to doświadczenie takie jak: 
--  kreatywny sposób pracy wyniesiony z branży architektonicznej,
--  opracowywanie detali, 
-- proponowanie rozwiązań do wytycznych klientów
-- Szukanie innowacyjnych rozwiązań
+spróbuję podsumować swoje doświadczenia, które pomimo tego,
 
-Praca z domu, jako freelancer
+ mogą być uniwersalnymi atutami kandydata: 
 
-Praca w zespole, oraz obsługa klienta,
 
-Myślę że może być traktowany, jako plus. 
 
-Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z wykonawcami i efekt końcowy, która to inwestycja zwiększyła wartość o conajmniej conajmniej 28%  i przynosi roczną stopę zwrotu na poziomie 18%
-<br />
+## Strategia Biznesowa - Udział w prywatnej inwestycji
+
+- Brałam udział w nadzorowaniu prywatnej inwestycji;
+- Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac;
+- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
+- Roczna stopa zwrotu, jest na poziomie **18%**;
+
+
+
+## Doświadczenie jako projektant
+
+Z czym miałam do czynienia na stanowisku projektanta 
+
+- **kreatywny** sposób pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
+- **Tłumaczenie** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;
+- **Iteracyjny proces**, który bazował na feedbacku;
+- Szczególna **dbałość o detale**, opracowywanie dokumentacji projektowej i rysunkowej;
+- Praca za pomocą różnych narzędzi i **programów**, 
+
+## Doświadczenie - Marketing
+
+- Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów
+- Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR, kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów.
+
+## Customer Service
+
+- Praca w wielokulturowym, różnorodnym środowisku;
+- Dbanie o satysfakcję klienta i jakość produktów;
+- Bezpośredni kontakt z klientem, praca pod presją;
+
 <br>
 ## CV
  Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/drive/folders/1xgnFojJ_J6wicAkPbaV662YhJ7KLHCxb?usp=sharing)<br/><br/>
