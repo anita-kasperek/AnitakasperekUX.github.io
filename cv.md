@@ -2,7 +2,7 @@
 layout: o-mnie
 title:
 ---
-#### Doświadczenie
+## Doświadczenie
 
 Jako że nie byłam związana zawodowo z branżą IT,
 
