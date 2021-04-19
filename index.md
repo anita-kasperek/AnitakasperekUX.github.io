@@ -2,6 +2,10 @@
 layout: o-mnie
 profile_picture:
   src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
+  <br>
+  | layout | title | slug |
+| ------ | ----- | ---- |
+| **Tutaj napiszę dane  **  | Tutaj co innego   | /icośtam |
 ---
 
 <p>
@@ -12,13 +16,4 @@ Gdybyś miał ochotę podzielić się uwagami, napisz do <a href="https://www.li
 </p> 
 
 
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-| layout | title | slug |
-| ------ | ----- | ---- |
-| **Tutaj napiszę dane  **  | Tutaj co innego   | /icośtam |
 
