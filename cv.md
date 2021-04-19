@@ -5,11 +5,8 @@ title:
 ## Doświadczenie
 
 Jako że nie byłam związana zawodowo z branżą IT,
-
 spróbuję podsumować swoje doświadczenia, które pomimo tego,
-
- mogą być uniwersalnymi atutami kandydata: 
-
+mogą być uniwersalnymi atutami kandydata: 
 
 
 ### Strategia Biznesowa - Udział w prywatnej inwestycji
