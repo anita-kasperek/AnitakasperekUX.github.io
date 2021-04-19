@@ -4,54 +4,31 @@ title:
 ---
 ## Doświadczenie
 
-Jako że nie byłam związana zawodowo z branżą IT,
-spróbuję podsumować swoje doświadczenia, które pomimo tego,
-mogą być uniwersalnymi atutami kandydata: 
+Moje doświadczenie zawodowe nie jest związane czysto z branżą technolgoiczną (mimo, że interesuję się UX Designem od dobrych paru lat) 
 
+Za to doświadczenie takie jak: 
+-  kreatywny sposób pracy wyniesiony z branży architektonicznej,
+-  opracowywanie detali, 
+- proponowanie rozwiązań do wytycznych klientów
+- Szukanie innowacyjnych rozwiązań
 
-### Strategia Biznesowa - Udział w prywatnej inwestycji
+Praca z domu, jako freelancer
 
-- Brałam udział w nadzorowaniu prywatnej inwestycji;
-- Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac;
-- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
-- Roczna stopa zwrotu, jest na poziomie **18%**;
+Praca w zespole, oraz obsługa klienta,
 
+Myślę że może być traktowany, jako plus. 
 
-
-### Doświadczenie jako projektant
-
-Z czym miałam do czynienia na stanowisku projektanta 
-
-- **kreatywny** sposób pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
-- **Tłumaczenie** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;
-- **Iteracyjny proces**, który bazował na feedbacku;
-- Szczególna **dbałość o detale**, opracowywanie dokumentacji projektowej i rysunkowej;
-- Praca za pomocą różnych narzędzi i **programów**, 
-
-### Doświadczenie - Marketing
-
-- Brałam udział w **przygotowywaniu** materiałów dla **potencjalnych klientów**
-- Byłam odpowiedzialna za **przygotowywanie materiałów do druku** w dziale PR, kontaktowałam się z wykonawcami, oraz moim zadaniem było **pilnowanie terminów**.
-
-### Customer Service
-
-- Praca w wielokulturowym, różnorodnym środowisku;
-- Dbanie o satysfakcję klienta i jakość produktów;
-- Bezpośredni kontakt z klientem, praca pod presją;
-
+Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z wykonawcami i efekt końcowy, która to inwestycja zwiększyła wartość o conajmniej conajmniej 28%  i przynosi roczną stopę zwrotu na poziomie 18%
+<br />
 <br>
-
 # CV
-
+ Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br/>
+ 
+| otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem. | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:20%;" /> |
+| -------------------------------------------- | ------------------------------------------------------------ |
 |                                                              |                                                              |
-| ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Utworzyłam również wersję jako prototyp w Figmie - [Otwórz CV w Figmie.                                          Utworzyłam również wersję jako prototyp w Figmie  - [Otwórz CV w Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0)<br/><br/><br/><br/><br/><br/><br/><br/><br> | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:45%;" /> |
 
 
-
-
-
-
-
+[![CV](/main/assets/img/Frame%202.png" style="zoom:20%;)](/main/assets/img/Frame%202.png" style="zoom:20%;)
 
 
