@@ -24,8 +24,7 @@ Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z w
 # CV
 
 
-[![CV](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:20%;)](/main/assets/img/Frame%202.png" style="zoom:20%;)
-
+[![Ancient Bristlecone Pine Forest, USA](/images/john-towner-unsplash.jpg)](/images/john-towner-unsplash.jpg)
 
  Swoje CV, udostępniłam na zewnętrznym dysku  [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br/>
  
