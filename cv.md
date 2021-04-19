@@ -2,7 +2,7 @@
 layout: o-mnie
 title:
 ---
-## Doświadczenie
+#### Doświadczenie
 
 Jako że nie byłam związana zawodowo z branżą IT,
 
@@ -12,7 +12,7 @@ spróbuję podsumować swoje doświadczenia, które pomimo tego,
 
 
 
-## Strategia Biznesowa - Udział w prywatnej inwestycji
+### Strategia Biznesowa - Udział w prywatnej inwestycji
 
 - Brałam udział w nadzorowaniu prywatnej inwestycji;
 - Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac;
@@ -21,7 +21,7 @@ spróbuję podsumować swoje doświadczenia, które pomimo tego,
 
 
 
-## Doświadczenie jako projektant
+### Doświadczenie jako projektant
 
 Z czym miałam do czynienia na stanowisku projektanta 
 
@@ -31,12 +31,12 @@ Z czym miałam do czynienia na stanowisku projektanta
 - Szczególna **dbałość o detale**, opracowywanie dokumentacji projektowej i rysunkowej;
 - Praca za pomocą różnych narzędzi i **programów**, 
 
-## Doświadczenie - Marketing
+### Doświadczenie - Marketing
 
 - Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów
 - Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR, kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów.
 
-## Customer Service
+### Customer Service
 
 - Praca w wielokulturowym, różnorodnym środowisku;
 - Dbanie o satysfakcję klienta i jakość produktów;
