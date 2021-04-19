@@ -11,6 +11,8 @@ Znajdziesz w nim <a href="https://anitakasperekux.github.io/portfolio">analizę 
 Gdybyś miał ochotę podzielić się uwagami, napisz do <a href="https://www.linkedin.com/in/anita-kasperek/">mnie!</a>. :envelope:.
 </p> 
 
-layout: o-mnie
-profile_picture:
-  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
+
+| layout | title | slug |
+| ------ | ----- | ---- |
+| **Tutaj napiszę dane  **  | Tutaj co innego   | /icośtam |
+
