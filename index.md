@@ -12,6 +12,26 @@ Gdybyś miał ochotę podzielić się uwagami, napisz do <a href="https://www.li
 </p> 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | layout | title | slug |
 | ------ | ----- | ---- |
 | **Tutaj napiszę dane  **  | Tutaj co innego   | /icośtam |
