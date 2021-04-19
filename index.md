@@ -1,7 +1,7 @@
 ---
 layout: o-mnie
 profile_picture:
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:20%;" />
+src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
 ---
 
 
@@ -13,4 +13,4 @@ Znajdziesz w nim <a href="https://anitakasperekux.github.io/portfolio">analizę 
 
 
 
- src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
+ 
