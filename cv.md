@@ -24,9 +24,11 @@ Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z w
 ---
 ## CV
 
-| CV  | Zdjęcie                                                      |
-| ---- | ------------------------------------------------------------ |
-| Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br/>otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem.                                                       | ![](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png) |
+| Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br/>otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem. | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:80%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
 
 
 
