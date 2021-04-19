@@ -1,7 +1,5 @@
 ---
-layout: cv
-title: CV
-slug: /CV
+##Coś CV
 ---
 Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)
 
