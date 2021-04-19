@@ -1,3 +1,11 @@
+---
+layout: cv
+title: CV
+slug: /CV
+---
+[Tutaj](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0). otworzysz link do CV utworzony w Figmie 
+
+<img src="{{ "/assets/img/cv-baner.png =720x363" | absolute_url }}" alt="cv" class="post-pic"/>
 
 ## Doświadczenie
 
@@ -17,14 +25,5 @@ Myślę że może być traktowany, jako plus.
 
 Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z wykonawcami i efekt końcowy, która to inwestycja zwiększyła wartość o conajmniej conajmniej 28%  i przynosi roczną stopę zwrotu na poziomie 18%
 <br />
-
----
-layout: cv
-title: CV
-slug: /CV
----
-[Tutaj](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0). otworzysz link do CV utworzony w Figmie 
-
-<img src="{{ "/assets/img/cv-baner.png =720x363" | absolute_url }}" alt="cv" class="post-pic"/>
 
 
