@@ -10,7 +10,15 @@
         <div class="cv">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
+          
+  {% include header.html %}
 
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="cv">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+          
           {% for item in page.items %}
           <div class="cv-item">
             <img
@@ -18,6 +26,12 @@
               alt="{{ item.image.alt }}"
               class="cv-bubble"
             />
+            <span class="work-text">
+              <strong>{{ item.title }}</strong>
+              &mdash;
+              {{ item.description }}
+            </span>
+            
             <span class="work-text">
               <strong>{{ item.title }}</strong>
               &mdash;
@@ -34,6 +48,8 @@
       <div class="wrapper">
         <div class="cv">
           <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+            <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
           {% for item in page.items %}
