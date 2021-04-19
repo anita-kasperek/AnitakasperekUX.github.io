@@ -2,8 +2,8 @@
 
 layout: o-mnie
 profile_picture:
-  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic.jpg
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:20%;" />
+  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg
+
 ---
 
 [kontakt do mnie](#footer)
