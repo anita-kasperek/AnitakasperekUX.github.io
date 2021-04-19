@@ -1,7 +1,7 @@
 ---
 layout: o-mnie
 title:
-  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/title.png 
+  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%402x.jpg 
 ---
 ## Doświadczenie
 
