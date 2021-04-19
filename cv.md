@@ -2,8 +2,6 @@
 layout: o-mnie
 profile_picture:
   src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/title.png 
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/title.png
 ---
 ## Doświadczenie
 
@@ -25,7 +23,10 @@ Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z w
 <br />
 
 ---
- 
+| cv     | CV    |
+| ------ | ----- |
+| layout | ![Alt Text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/title.png) |
+
 ## CV
 Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)
 
