@@ -54,7 +54,7 @@ Z czym miałam do czynienia na stanowisku projektanta
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br><br><br><br><br><br><br><br> | ><img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:18%;" /> |
+| Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing) <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br><br><br><br><br><br><br><br><br><br><br> | ><img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:18%;" /> |
 
 
 
