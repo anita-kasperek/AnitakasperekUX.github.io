@@ -28,25 +28,3 @@ Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://dri
 otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem.
 
 
-.markdown-preview-view img {
-	cursor:zoom-in;}
-
-.markdown-preview-view img:active {
-	cursor:zoom-out;
-	display:block;
-	z-index:100;
-	position:fixed;
-    max-height:100%;
-    max-width:100%;
-    height:100%;
-    width:100%;
-    object-fit: contain;
-    margin:0 auto;
-    text-align:center;
-    top: 50%;
-  	transform: translateY(-50%);
-    padding:0;
-    left:0;
-    right:0;
-    bottom:0;
-    background:var(--background-primary);}
