@@ -24,7 +24,7 @@ Nadzór również inwestycję, byłam odpowiedzialna za zamówienia, kontakt z w
 # CV
 
 
-[![Ancient Bristlecone Pine Forest, USA](/images/john-towner-unsplash.jpg)](/images/john-towner-unsplash.jpg)
+[![Ancient Bristlecone Pine Forest, USA](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode.png)
 
  Swoje CV, udostępniłam na zewnętrznym dysku  [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br/>
  
