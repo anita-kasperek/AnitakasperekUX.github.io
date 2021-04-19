@@ -15,21 +15,7 @@ Gdybyś miał ochotę podzielić się uwagami, napisz do <a href="https://www.li
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 | layout | title | slug |
