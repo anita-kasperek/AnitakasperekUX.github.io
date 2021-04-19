@@ -30,8 +30,8 @@ Z czym miałam do czynienia na stanowisku projektanta
 
 ### Doświadczenie - Marketing
 
-- Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów
-- Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR, kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów.
+- Brałam udział w **przygotowywaniu** materiałów dla **potencjalnych klientów**
+- Byłam odpowiedzialna za **przygotowywanie materiałów do druku** w dziale PR, kontaktowałam się z wykonawcami, oraz moim zadaniem było **pilnowanie terminów**.
 
 ### Customer Service
 
