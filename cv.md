@@ -3,8 +3,7 @@ layout: cv
 title: CV
 slug: /CV
 ---
-<img src="{{ "/assets/img/cv-anita-kasperek.png" | absolute_url }}" alt="bay" class="post-pic"/>
-<br />
+<a href="https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0" rel="Otworzysz tu CV w Figmie">![Foo](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/cv-baner.png)</a>
 <br />
 
 Możesz  [otworzyć CV tu](https://unsplash.com/@bkotynski).
