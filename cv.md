@@ -1,8 +1,8 @@
 ---
 layout: o-mnie
-title:
+title:Doświadczenie
 ---
-# Doświadczenie
+## Doświadczenie
 
 Jako że nie byłam związana zawodowo z branżą IT,
 spróbuję podsumować swoje doświadczenia, które pomimo tego,
