@@ -11,7 +11,7 @@ blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
-<img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro-Case-Study-Allegro.png" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%207.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
