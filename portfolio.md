@@ -5,12 +5,12 @@ slug: /portfolio
 items:
   ----
 layout: post
-title:  "Portfolio / Case Study"
+title:
 date:  Marzec-Kwiecień-2021
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
-
+# "Portfolio / Case Study"
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
