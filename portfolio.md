@@ -5,8 +5,8 @@ slug: /portfolio
 items:
   ----
 layout: post
-title: Portfooofofo
-date:  Marzec-Kwiecień-2021
+title: Portfolio / Case Study
+date: Kwiecień-15-2021
 blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/MacBook%20Pro%20-%2040.png
