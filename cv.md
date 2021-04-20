@@ -1,6 +1,6 @@
 ---
 layout: o-mnie
-title:Doświadczenie
+title: Doświadczenie
 ---
 ## Doświadczenie
 
