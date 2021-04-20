@@ -39,13 +39,13 @@ Z czym miałam do czynienia na stanowisku projektanta
 - Dbanie o satysfakcję klienta i jakość produktów;
 - Bezpośredni kontakt z klientem, praca pod presją;
 <br>
+<br>
+
 # CV
-
-
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/>Utworzyłam również wersję jako prototyp w Figmie - [Otwórz CV w Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0)<br/><br/><br/><br/><br/><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
+| Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/>Utworzyłam również wersję jako prototyp w Figmie - [Otwórz CV w Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0)<br/><br><br><br/><br/><br/><br/><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
 
 
 
