@@ -7,7 +7,9 @@ items:
 layout: post
 title: Portfooofofo
 date:  Marzec-Kwiecień-2021
-blurb: 
+blurb: "Intro"
+og_image: "Intro"
+og_image: /assets/img/MacBook%20Pro%20-%2040.png
 ---
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2040.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
