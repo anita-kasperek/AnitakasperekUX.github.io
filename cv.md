@@ -45,16 +45,6 @@ Z czym miałam do czynienia na stanowisku projektanta
 
 <br>
 
-## CV
-
-
-
-Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)
-
-otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0) linkiem.
-
-![cv-baner](/Users/mackbook/Desktop/cv-baner.png)
-<br>
 # CV
 
 
@@ -62,7 +52,8 @@ otworzysz link do CV utworzony w [Figmie](https://www.figma.com/proto/hi6MsvVflN
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Utworzyłam również wersję jako prototyp w Figmie - [Otwórz CV w Figmie.                                          Utworzyłam również wersję jako prototyp w Figmie  - [Otwórz CV w Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0)<br/><br/><br/><br/><br/><br/><br/><br/><br | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:45%;" /> |
+| Jeśli chciałbyś zobaczyć moje CV, możesz je otworzyć pod [tym](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)Utworzyłam również wersję jako prototyp w Figmie - [Otwórz CV w Figmie]                            
+Utworzyłam również wersję jako prototyp w Figmie  - [Otwórz CV w Figmie](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&scaling=min-zoom&page-id=71%3A0)<br/><br/><br/><br/><br/><br/><br/><br/>| <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%202.png" style="zoom:45%;" /> |
 
 
 
