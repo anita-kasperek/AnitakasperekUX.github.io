@@ -14,7 +14,7 @@ mogą być uniwersalnymi atutami kandydata:
 - Brałam udział w nadzorowaniu prywatnej inwestycji;
 - Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac;
 - Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
-- Roczna stopa zwrotu, jest na poziomie **18%**;
+- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
 
 
 
@@ -45,7 +45,7 @@ Z czym miałam do czynienia na stanowisku projektanta
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
+| Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
 
 
 
