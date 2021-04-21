@@ -2,7 +2,7 @@
 layout: o-mnie
 title: Doświadczenie
 ---
-# Doświadczenie
+## Doświadczenie
 
 Pomimo, że nie byłam związana zawodowo z branżą IT,<br>
 Spróbuję wypunktować cechy, które są atutami uniwersalnymi 
@@ -10,16 +10,14 @@ Spróbuję wypunktować cechy, które są atutami uniwersalnymi
 <br>
 <br>
 
-## Strategia Biznesowa - Udział w prywatnej inwestycji
+## Strategia Biznesowa 
 
-- Brałam udział w nadzorowaniu prywatnej inwestycji;
-- Brałam udział w projektowaniu przestrzeni,detali; 
-- Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac i optymalizację finansową;
+| <br/>- Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br/>- Brałam udział w projektowaniu przestrzeni,**detali**; <br/>- Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;<br/><br/>- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;<br/>- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**; | ---------------------------------- |
+| ------------------------------------------------------------ | ---------------------------------- |
+|                                                              |                                    |
 
-- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
-- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
-<br>
-<br>
+
+
 ## Projektant
 
 Na tym stanowisku, miałam do czynienia z:
