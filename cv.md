@@ -6,9 +6,8 @@ title: Doświadczenie
 
 _Pomimo, że nie byłam związana zawodowo z branżą IT<br>
 wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu branżach._🙂
-<br>
+<br><br><br>
 **Strategia Biznesowa**
- 
 ➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br>
 ➡️ Brałam udział w projektowaniu przestrzeni,**detali**; <br>
 ➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;<br>
@@ -26,12 +25,10 @@ Na tym stanowisku, miałam do czynienia z:
 ➡️ Pracą za pomocą różnych narzędzi i **programów**, <br>
 <br>
 **Doświadczenie - Marketing**
-
 ➡️ Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów;<br>
 ➡️ Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów;<br>
-<br>
+<br><br>
 **Customer Service**
-
 ➡️ Pracowałam w wielokulturowym środowisku;<br>
 ➡️ Miałam bezpośredni kontakt z klientem i dbałam <br> o jego całościowe doświadczenie, jakość produktów i usług;<br>
 ➡️ Często praca była pod presją czasu, z nieprzewidywalnymi sytuacjami;<br>
