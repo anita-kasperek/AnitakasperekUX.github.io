@@ -18,18 +18,17 @@ Spróbuję wypunktować cechy, które są atutami uniwersalnymi
 
 - Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
 - Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
-
 <br>
 <br>
-## Doświadczenie jako projektant
+## Projektant
 
-Z czym miałam do czynienia na stanowisku projektanta 
+Na tym stanowisku, miałam do czynienia z:
 
-- **kreatywny** sposób pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
-- **Tłumaczenie** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;
-- **Iteracyjny proces**, który bazował na feedbacku;
-- Szczególna **dbałość o detale**, opracowywanie dokumentacji projektowej i rysunkowej;
-- Praca za pomocą różnych narzędzi i **programów**, 
+- **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
+- **Tłumaczeniem** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;
+- **Iteracyjnym procesem**, który bazował na feedbacku;
+- Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej;
+- Pracą za pomocą różnych narzędzi i **programów**, 
 
 ## Doświadczenie - Marketing
 
@@ -38,9 +37,9 @@ Z czym miałam do czynienia na stanowisku projektanta
 
 ## Customer Service
 
-- Praca w wielokulturowym, różnorodnym środowisku;
-- Dbanie o satysfakcję klienta i jakość produktów;
-- Bezpośredni kontakt z klientem, praca pod presją;
+- Pracowałam w wielokulturowym środowisku 
+- Miałam bezpośredni kontakt z klientem i dbałam o jego całościowe doświadczenie, jakość produktów i usług;
+- Często praca była pod presją czasu, z nieprzewidywalnymi sytuacjami;
 <br>
 <br>
 
