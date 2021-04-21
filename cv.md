@@ -5,7 +5,7 @@ title: Doświadczenie
 # Doświadczenie
 
 Pomimo, że nie byłam związana zawodowo z branżą IT,<br>
-Spróbuję wypunktować cechy, które pomimo tego są atutami uniwersalnymi 
+Spróbuję wypunktować cechy, które są atutami uniwersalnymi 
 <br> i mogą być przydatne w wielu branżach. 
 <br>
 <br>
