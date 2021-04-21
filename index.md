@@ -2,7 +2,7 @@
 
 layout: o-mnie
 profile_picture:
-  src: 
+  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg
 
 ---
 
@@ -15,4 +15,9 @@ Znajdziesz w nim <a href="https://anitakasperekux.github.io/portfolio">analizę 
 Prywatnie jestem miłośniczką azjatyckiej kuchni, szeroko rozumianego "craftingu" i domowej dżungli.<br>
 <br>Gdybyś miał chwilkę podzielić się spostrzeżeniami na temat mojego portfolio, chętnie przeczytam każdą <a href="https://www.linkedin.com/in/anita-kasperek/">wskazówkę!</a> :envelope:
 
-https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg
+
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Miło że wpadłeś! ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png) ![:wave:](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) Jestem entuzjastką UX i Produkt Designu, a ta strona stara się pokazać mój sposób pracy, proces, oraz dotychczasowe doświadczenie. | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg" style="zoom:20%;" /> |
+
