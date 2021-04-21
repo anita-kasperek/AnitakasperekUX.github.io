@@ -2,7 +2,7 @@
 layout: o-mnie
 title: Doświadczenie
 ---
- Doświadczenie
+ #### Doświadczenie
 
 _Pomimo, że nie byłam związana zawodowo z branżą IT<br>
 punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach. _
