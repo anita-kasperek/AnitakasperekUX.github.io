@@ -2,15 +2,14 @@
 layout: o-mnie
 title: Doświadczenie
 ---
-## Doświadczenie
+ Doświadczenie
 
-Pomimo, że nie byłam związana zawodowo z branżą IT,<br>
-Spróbuję wypunktować cechy, które są atutami uniwersalnymi 
-<br> i mogą być przydatne w wielu branżach. 
+_Pomimo, że nie byłam związana zawodowo z branżą IT<br>
+punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach. _
 <br>
 <br>
 
-## Strategia Biznesowa 
+ **Strategia Biznesowa **
 - Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
 - Brałam udział w projektowaniu przestrzeni,**detali**; 
 - Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;
