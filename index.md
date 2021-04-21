@@ -2,7 +2,7 @@
 
 layout: o-mnie
 profile_picture:
-  src: <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg" style="zoom:0%;" />
+  src: https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg
 
 ---
 
