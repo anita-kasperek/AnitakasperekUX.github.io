@@ -16,7 +16,8 @@ Spróbuję wypunktować cechy, które są atutami uniwersalnymi
 - Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;
 - Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
 - Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
-
+<br>
+<br>
 
 ## Projektant
 Na tym stanowisku, miałam do czynienia z:
