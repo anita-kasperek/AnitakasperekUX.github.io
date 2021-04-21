@@ -11,16 +11,14 @@ Spróbuję wypunktować cechy, które są atutami uniwersalnymi
 <br>
 
 ## Strategia Biznesowa 
-
-|                                                              | ---------------------------------- |
-| ------------------------------------------------------------ | ---------------------------------- |
-| Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br/>Brałam udział w projektowaniu przestrzeni,**detali**; <br/>Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;<br/>Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;<br/>Roczna stopa zwrotu wynosi natomiast conajmniej **18%**; |                                    |
-
-
+- Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
+- Brałam udział w projektowaniu przestrzeni,**detali**; 
+- Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;
+- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
+- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
 
 
 ## Projektant
-
 Na tym stanowisku, miałam do czynienia z:
 
 - **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
@@ -43,7 +41,6 @@ Na tym stanowisku, miałam do czynienia z:
 <br>
 
 # CV
-
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
 | Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/2021_cv_dark%20mode%2012%40.png) |
