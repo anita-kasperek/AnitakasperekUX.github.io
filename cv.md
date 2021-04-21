@@ -2,16 +2,16 @@
 layout: o-mnie
 title: Doświadczenie
 ---
- #### Doświadczenie
+ ## Doświadczenie
 
 _Pomimo, że nie byłam związana zawodowo z branżą IT<br>
 punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach. _
 <br>
 <br>
 
- ### Strategia Biznesowa 
+ ## Strategia Biznesowa 
  
-- Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
+:Right Arrow: Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
 - Brałam udział w projektowaniu przestrzeni,**detali**; 
 - Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;
 - Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
