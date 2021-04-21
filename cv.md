@@ -12,9 +12,10 @@ Spróbuję wypunktować cechy, które są atutami uniwersalnymi
 
 ## Strategia Biznesowa 
 
-| <br/>- Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br/>- Brałam udział w projektowaniu przestrzeni,**detali**; <br/>- Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;<br/><br/>- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;<br/>- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**; | ---------------------------------- |
+|                                                              | ---------------------------------- |
 | ------------------------------------------------------------ | ---------------------------------- |
-|                                                              |                                    |
+| Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br/>Brałam udział w projektowaniu przestrzeni,**detali**; <br/>Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**, nadzorowaniem prac i **optymalizację finansową**;<br/>Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;<br/>Roczna stopa zwrotu wynosi natomiast conajmniej **18%**; |                                    |
+
 
 
 
