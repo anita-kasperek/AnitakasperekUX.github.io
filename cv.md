@@ -4,20 +4,23 @@ title: Doświadczenie
 ---
 # Doświadczenie
 
-Jako że nie byłam związana zawodowo z branżą IT,
-spróbuję podsumować swoje doświadczenia, które pomimo tego,
-mogą być uniwersalnymi atutami kandydata: 
-
+Pomimo, że nie byłam związana zawodowo z branżą IT,<br>
+Spróbuję wypunktować cechy, które pomimo tego są atutami uniwersalnymi 
+<br> i mogą być przydatne w wielu branżach. 
+<br>
+<br>
 
 ## Strategia Biznesowa - Udział w prywatnej inwestycji
 
 - Brałam udział w nadzorowaniu prywatnej inwestycji;
-- Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac;
+- Brałam udział w projektowaniu przestrzeni,detali; 
+- Byłam odpowiedzialna za zamówienia, kontakt z wykonawcami, nadzorowaniem prac i optymalizację finansową;
+
 - Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
 - Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
 
-
-
+<br>
+<br>
 ## Doświadczenie jako projektant
 
 Z czym miałam do czynienia na stanowisku projektanta 
