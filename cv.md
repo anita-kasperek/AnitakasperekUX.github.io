@@ -9,7 +9,8 @@ punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branża
 <br>
 <br>
 
- #### Strategia Biznesowa 
+ ### Strategia Biznesowa 
+ 
 - Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
 - Brałam udział w projektowaniu przestrzeni,**detali**; 
 - Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;
