@@ -5,7 +5,7 @@ title: Doświadczenie
  **Doświadczenie**
 
 _Pomimo, że nie byłam związana zawodowo z branżą IT<br>
-punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach._
+wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu branżach._🙂
 <br>
 <br>
 
@@ -14,7 +14,7 @@ punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branża
 ➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br>
 ➡️ Brałam udział w projektowaniu przestrzeni,**detali**; <br>
 ➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;<br>
-➡️ Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;<br>
+➡️ Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;📈💸<br>
 ➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;<br>
 <br>
 <br>
