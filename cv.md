@@ -1,5 +1,5 @@
 ---
-layout: o-mnie
+layout: index
 title: Doświadczenie
 ---
  ## Doświadczenie
@@ -9,7 +9,7 @@ punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branża
 <br>
 <br>
 
- ## Strategia Biznesowa 
+_ **Strategia Biznesowa** _
  
 :Right Arrow: Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
 - Brałam udział w projektowaniu przestrzeni,**detali**; 
@@ -22,7 +22,7 @@ punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branża
 ## Projektant
 Na tym stanowisku, miałam do czynienia z:
 
-- **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** **najnowszymi rozwiązaniami** technicznymi;
+- **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi;
 - **Tłumaczeniem** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;
 - **Iteracyjnym procesem**, który bazował na feedbacku;
 - Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej;
