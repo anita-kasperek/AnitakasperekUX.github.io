@@ -19,5 +19,5 @@ Prywatnie jestem miłośniczką azjatyckiej kuchni, szeroko rozumianego "craftin
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Miło że wpadłeś! ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png) ![:wave:](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) Jestem entuzjastką UX i Produkt Designu, a ta strona stara się pokazać mój sposób pracy, proces, oraz dotychczasowe doświadczenie. | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile-pic%20.jpg" style="zoom:20%;" /> |
+| Miło że wpadłeś! ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png) ![:wave:](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) Jestem entuzjastką UX i Produkt Designu, a ta strona stara się pokazać mój sposób pracy, proces, oraz dotychczasowe doświadczenie. | <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/profile%20pic.jpg" style="zoom:50%;" /> |
 
