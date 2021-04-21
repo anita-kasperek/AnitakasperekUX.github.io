@@ -16,6 +16,7 @@ wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu bran�
 ➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;<br>
 <br>
 **Projektant**
+
 Na tym stanowisku, miałam do czynienia z:
 
 ➡️ **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi;<br>
