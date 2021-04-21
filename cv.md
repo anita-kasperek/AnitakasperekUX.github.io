@@ -12,16 +12,15 @@ wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu bran�
 ➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br>
 ➡️ Brałam udział w projektowaniu przestrzeni,**detali**; <br>
 ➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;<br>
-➡️ Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;📈💸<br>
+➡️ Końcowy efekt,**zwiększył wartość**📈 inwestycji o conajmniej **28%**;💸<br>
 ➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;<br>
 <br>
 **Projektant**
 <br>
 Na tym stanowisku, miałam do czynienia z:
-
-➡️ **kreatywnym** sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi;<br>
+➡️ **kreatywnym** 💡sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi;<br>
 ➡️ **Tłumaczeniem** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;<br>
-➡️ **Iteracyjnym procesem**, który bazował na feedbacku;<br>
+➡️ **Iteracyjnym procesem**, który bazował na feedbackuℹ️;<br>
 ➡️ Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej;<br>
 ➡️ Pracą za pomocą różnych narzędzi i **programów**, <br>
 <br>
