@@ -5,17 +5,17 @@ title: Doświadczenie
  ## Doświadczenie
 
 _Pomimo, że nie byłam związana zawodowo z branżą IT<br>
-punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach. _
+punktuję uniwersalne doświadczenia, które mogą przydać się w wielu branżach. 
 <br>
 <br>
 
-_ **Strategia Biznesowa** _
+**Strategia Biznesowa**
  
-:Right Arrow: Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
-- Brałam udział w projektowaniu przestrzeni,**detali**; 
-- Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;
-- Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
-- Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
+➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;
+➡️ Brałam udział w projektowaniu przestrzeni,**detali**; 
+➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;
+➡️ Końcowy efekt,**zwiększył wartość** inwestycji o conajmniej **28%**;
+➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;
 <br>
 <br>
 
