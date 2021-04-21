@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: o-mnie
 title: Doświadczenie
 ---
  ## Doświadczenie
