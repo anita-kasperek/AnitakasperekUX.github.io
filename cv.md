@@ -21,8 +21,8 @@ Na tym stanowisku, miałam do czynienia z:
 ➡️ **kreatywnym** 💡sposobem pracy,który polegał na poszukiwaniu i **inspirowaniu się** <br> **najnowszymi rozwiązaniami** technicznymi;<br>
 ➡️ **Tłumaczeniem** **wytycznych** inwestora, oraz niekiedy potrzeb **przyszłych użytkowników**, na propozycje projektowe;<br>
 ➡️ **Iteracyjnym procesem**, który bazował na feedbackuℹ️;<br>
-➡️ Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej;<br>
-➡️ Pracą za pomocą różnych narzędzi i **programów**, <br>
+➡️ Szczególną **dbałością o detale**, opracowywaniem dokumentacji projektowej i rysunkowej;✍️<br>
+➡️ Pracą za pomocą różnych narzędzi i **programów**,🔨 <br>
 <br>
 **Doświadczenie - Marketing**<br>
 ➡️ Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów;<br>
@@ -30,7 +30,7 @@ Na tym stanowisku, miałam do czynienia z:
 <br><br>
 **Customer Service**<br>
 ➡️ Pracowałam w wielokulturowym środowisku;<br>
-➡️ Miałam bezpośredni kontakt z klientem i dbałam <br> o jego całościowe doświadczenie, jakość produktów i usług;<br>
+➡️ Miałam bezpośredni kontakt z klientem💬 i dbałam <br> o jego całościowe doświadczenie, jakość produktów i usług;<br>
 ➡️ Często praca była pod presją czasu, z nieprzewidywalnymi sytuacjami;<br>
 <br>
 # CV
