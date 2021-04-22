@@ -14,6 +14,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%207.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
+0.0   **<u>Najrótszy frame</u>** - Cel - Opis Motywacji : Opis Kontekstu | Określenie hipotezy problemu | Rozwiązanie |
+
+| 0.0  | 0.1.Co? Nazwa\|Tytuł                                       | 0.2.Co?(rozwinięcie)\| Krótki Opis | 0.3.Dlaczego?\|Cel               | 0.4. Dla kogo ? | 0.5. Hipoteza                                                | 0.6. Rozwiązanie |      |      |      |
+| :--: | :--------------------------------------------------------- | ---------------------------------- | -------------------------------- | --------------- | ------------------------------------------------------------ | ---------------- | ---- | ---- | ---- |
+|      | a) Czas B) Co to jest ?  B) Narzędzia C) Rodzaj Frameworku |                                    | Motywacje do stworzenia projektu |                 | A) Dla kogo? B) Potencjalny problem C) Spostrzeżenia , Pain points, actionable insight D) Co chcesz osiągnąć i co to zmieni ? |                  |      |      |      |
+
+
 
 
 
