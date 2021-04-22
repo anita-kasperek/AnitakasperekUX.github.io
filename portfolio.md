@@ -15,8 +15,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 <br />
 
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
 
@@ -96,7 +95,7 @@ Table of Contents
 1. Part 1
 2. Part 2
     * Part 2 Sub-part 1
-    * Part 2 Sub-part 2
+    * 10 - LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM.
 3. Footnotes
 
 PART 1
@@ -113,9 +112,20 @@ PART 2 SUB PART 1
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+10 - LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM.
+
+
+
+-  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
+- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. 
+- Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. 
+- Muszę opanować dobrze narzędzia do prototypowania i szybszej walidacji  pomysłów.
+- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
+- Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
+- Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
+- Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
+- Priorytyzacja. 
 
 FOOTNOTES
 [^1]: This is a note!
