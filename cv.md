@@ -34,7 +34,7 @@ Na tym stanowisku, miałam do czynienia z:<br>
 ➡️ Często praca była pod **presją czasu**, z nieprzewidywalnymi sytuacjami;<br>
 <br>
 # CV<br>
-> *Klikając w poniższy obraz, otworzysz moje CV wykonane w Figmie.* 
+*Klikając w poniższy obraz, otworzysz moje CV wykonane w Figmie.* 
 
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/cv2.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) <br>
 Gdybyś z jakiś względów potrzebował [pobrać moje CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing),
