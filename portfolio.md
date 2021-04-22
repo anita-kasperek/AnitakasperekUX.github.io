@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM](#LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
+    * [Part 2 Sub-part 2](#LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
 3. [Footnotes](#footnotes)
 
 #### PART 1
