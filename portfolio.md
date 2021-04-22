@@ -24,14 +24,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Table of Contents
 1. [Example](#EEEEE)
 2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#LAST-SPOSTRZEŻENIA-|-CZEGO SIĘ NAUCZYŁAM)
+3. [Third Example](#Podsumowanie)
 3. [Footnotes](#footnotes)
 
 ## EEEEE
 ## Example2
-## Third Example
-## LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
+## Podsumowanie
 
 -  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
 
