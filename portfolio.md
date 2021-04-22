@@ -22,25 +22,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 # Table of Contents
-1. [Example](#example)
+1. [Example](#EEEEE)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+3. [Footnotes](#footnotes)
 
-
-## Example
+## EEEEE
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
 
 
-
-#### Table of Contents
-1. [Part 1](#PART 1)
-2. [Part 2](#PAAART)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
-3. [Footnotes](#footnotes)
 
 #### PART 1
 Studium Przypadku / Case Study
