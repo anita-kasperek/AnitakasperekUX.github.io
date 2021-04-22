@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Table of Contents
 1. [Example](#EEEEE)
 2. [Example2](#example2)
-3. [Third Example](#Podsumowanie)
+3. [Podsumowanie](#Podsumowanie)
 3. [Footnotes](#footnotes)
 
 ## EEEEE
