@@ -11,7 +11,7 @@ wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu bran�
 <br>
 ➡️ Współpracowałam w **nadzorowaniu** prywatnej inwestycji;<br>
 ➡️ Brałam udział w projektowaniu przestrzeni,**detali**; <br>
-➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac i **optymalizację finansową**;<br>
+➡️ Byłam odpowiedzialna za zamówienia, **kontakt z wykonawcami**,<br> nadzorowanie prac🗓️ i **optymalizację finansową**💰;<br>
 ➡️ Końcowy efekt,**zwiększył wartość**📈 inwestycji o conajmniej **28%**;💸<br>
 ➡️ Roczna stopa zwrotu wynosi natomiast conajmniej **18%**;<br>
 <br>
@@ -26,7 +26,7 @@ Na tym stanowisku, miałam do czynienia z:
 <br>
 **Doświadczenie - Marketing**<br>
 ➡️ Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów;<br>
-➡️ Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów;<br>
+➡️ Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR🖨️,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów🗓️;<br>
 <br><br>
 **Customer Service**<br>
 ➡️ Pracowałam w wielokulturowym środowisku;<br>
