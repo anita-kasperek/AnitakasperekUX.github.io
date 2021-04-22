@@ -29,9 +29,9 @@ Na tym stanowisku, miałam do czynienia z:
 ➡️ Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR🖨️,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów🗓️;<br>
 <br><br>
 **Customer Service**<br>
-➡️ Pracowałam w wielokulturowym środowisku;<br>
-➡️ Miałam bezpośredni kontakt z klientem💬 i dbałam <br> o jego całościowe doświadczenie, jakość produktów i usług;<br>
-➡️ Często praca była pod presją czasu, z nieprzewidywalnymi sytuacjami;<br>
+➡️ Pracowałam w **wielokulturowym** środowisku;<br>
+➡️ Miałam **bezpośredni kontakt** z klientem💬 i dbałam <br> o jego całościowe doświadczenie, **jakość produktów** i usług;<br>
+➡️ Często praca była pod **presją czasu**, z nieprzewidywalnymi sytuacjami;<br>
 <br>
 # CV
 
