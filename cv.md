@@ -25,8 +25,8 @@ Na tym stanowisku, miałam do czynienia z:
 ➡️ Pracą za pomocą różnych narzędzi i **programów**,🔨 <br>
 <br>
 **Doświadczenie - Marketing**<br>
-➡️ Brałam udział w przygotowywaniu materiałów dla potencjalnych klientów;<br>
-➡️ Byłam odpowiedzialna za przygotowywanie materiałów do druku w dziale PR🖨️,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów🗓️;<br>
+➡️ Brałam udział w **przygotowywaniu materiałów** dla potencjalnych klientów;<br>
+➡️ Byłam odpowiedzialna za druk materiałów w dziale PR🖨️,<br> kontaktowałam się z wykonawcami, oraz moim zadaniem było pilnowanie terminów 🗓️;<br>
 <br><br>
 **Customer Service**<br>
 ➡️ Pracowałam w **wielokulturowym** środowisku;<br>
