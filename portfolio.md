@@ -25,13 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1. [Example](#EEEEE)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
-4. [Fourth Example](#LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
+4. [Fourth Example](#LAST-SPOSTRZEŻENIA-|-CZEGO SIĘ NAUCZYŁAM)
 3. [Footnotes](#footnotes)
 
 ## EEEEE
 ## Example2
 ## Third Example
-## [LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM]
+## LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
 
 -  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
 
