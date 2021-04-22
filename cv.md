@@ -37,7 +37,7 @@ Na tym stanowisku, miałam do czynienia z:
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
-| Możesz otworzyc plik  <br>Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Mask%20Group%404x.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) |
+| Możesz otworzyc plik  <br>Udostepniłam CV na swoim dysku, możesz je otworzyć - [Otwórz CV](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing)<br/><br><br><br><br/><br/><br/><br/><br><br><br><br/><br/> | [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/cv2.png)](https://www.figma.com/proto/hi6MsvVflNzFSG0QDNcBaK/Anita_Kasperek_CV?node-id=73%3A66&viewport=37%2C153%2C0.14476820826530457&scaling=min-zoom&page-id=71%3A0) |
 
 
 
