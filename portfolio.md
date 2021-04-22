@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 #### Table of Contents
-1. [Part 1](#pPRPRPRPRP)
+1. [Part 1](#PART 1)
 2. [Part 2](#PAAART)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
