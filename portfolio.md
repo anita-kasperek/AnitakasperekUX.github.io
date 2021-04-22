@@ -25,13 +25,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1. [Example](#EEEEE)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Fourth Example](# LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM)
 3. [Footnotes](#footnotes)
 
 ## EEEEE
 ## Example2
 ## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+## [Fourth Example]( LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM) 
+
+-  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
+
+- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. 
+
+- Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. 
+
+- Muszę opanować dobrze narzędzia do prototypowania i szybszej walidacji  pomysłów.
+
+- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
+
+- Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
+
+- Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
+
+- Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
+
+  
 
 
 
