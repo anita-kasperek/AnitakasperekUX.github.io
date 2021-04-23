@@ -18,13 +18,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 
 
-| 0.0  | 0.1.Co? Nazwa\|Tytuł                                       | 0.2.Co?(rozwinięcie)\| Krótki Opis | 0.3.Dlaczego?\|Cel               | 0.4. Dla kogo ? | 0.5. Hipoteza                                                | 0.6. Rozwiązanie |      |      |      |
-| :--: | :--------------------------------------------------------- | ---------------------------------- | -------------------------------- | --------------- | ------------------------------------------------------------ | ---------------- | ---- | ---- | ---- |
-|      | a) Czas B) Co to jest ?  B) Narzędzia C) Rodzaj Frameworku |                                    | Motywacje do stworzenia projektu |                 | A) Dla kogo? B) Potencjalny problem C) Spostrzeżenia , Pain points, actionable insight D) Co chcesz osiągnąć i co to zmieni ? |                  |      |      |      |
 
-# Podsumowanie Tytuł: [Co? Kogo? Co pokazuje Case study?] Czy aplikacja allegro jest wystarczająco intuicyjna dla stałych użytkowników ?
-Projekt wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
-Czas: Marzec - Kwiecień 2021
+# Podsumowanie Tytuł: [Co? Kogo? Co pokazuje Case study?] 
+<br> 
+# Czy aplikacja allegro jest wystarczająco intuicyjna dla stałych użytkowników ?
+
+**Projekt** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
+**Czas:** Marzec - Kwiecień 2021
 Co to jest? - Ćwiczenie projektowe 
 Kto brał w nim udział: ja :D; + Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
 Narzędzia: Papier i dużo kartek, Drukarka, Typora, Figma, 
@@ -38,7 +38,7 @@ Hipoteza:
 Rozwiązanie:
 
 
-# 1Title and cover
+# Title and cover
 2Project description
 3Team and roles
 4Discovery
