@@ -11,6 +11,8 @@ blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
+**Informacje ogólne:**
+
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%207.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
@@ -138,6 +140,7 @@ LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
 - Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
+- Nie wypisałam sobie dokładnie włącznie z założeniem i opisem szczegółowym jak coś wykonuję, ile ma mi to zająć. Generalnie zostawiłam sobie jako że jest to pierwszy taki projekt, że przecież dopiero się uczę i nie wiem jak wszystko jeszcze zrobić efektywnie. 
 
 
 
