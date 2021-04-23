@@ -19,9 +19,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-# Podsumowanie Tytuł: [Co? Kogo? Co pokazuje Case study?] 
+## Podsumowanie Tytuł: [Co? Kogo? Co pokazuje Case study?] 
 <br> 
-# Czy aplikacja allegro jest wystarczająco intuicyjna dla stałych użytkowników ?
+## Czy aplikacja allegro jest wystarczająco intuicyjna dla stałych użytkowników ?
 
 **Projekt** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 **Czas:** Marzec - Kwiecień 2021
