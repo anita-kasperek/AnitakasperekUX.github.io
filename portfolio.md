@@ -141,6 +141,9 @@ LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
 - Nie wypisałam sobie dokładnie włącznie z założeniem i opisem szczegółowym jak coś wykonuję, ile ma mi to zająć. Generalnie zostawiłam sobie jako że jest to pierwszy taki projekt, że przecież dopiero się uczę i nie wiem jak wszystko jeszcze zrobić efektywnie. 
+- Probowałam wyznaczyć sobie cele ale był ponad moje siły. Postanowiłam, że wykonam pełny proces włącznie z prototypem i postawieniem strony , oraz dopracowaniem UI i interakcji. Nie udało się.
+- Zamiast Testu Użyteczności, który powinnam przeprowadzić od razu i przygotować pytania takie jak:
+- --------------- Przeprowadziłam analizę heurystyczną, zakładając że tak będzie szybciej i efektywniej. 
 
 
 
