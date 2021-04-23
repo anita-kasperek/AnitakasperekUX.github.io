@@ -14,14 +14,14 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%207.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
-0.0   **<u>Najrótszy frame</u>** - Cel - Opis Motywacji : Opis Kontekstu | Określenie hipotezy problemu | Rozwiązanie |
+
 
 | 0.0  | 0.1.Co? Nazwa\|Tytuł                                       | 0.2.Co?(rozwinięcie)\| Krótki Opis | 0.3.Dlaczego?\|Cel               | 0.4. Dla kogo ? | 0.5. Hipoteza                                                | 0.6. Rozwiązanie |      |      |      |
 | :--: | :--------------------------------------------------------- | ---------------------------------- | -------------------------------- | --------------- | ------------------------------------------------------------ | ---------------- | ---- | ---- | ---- |
 |      | a) Czas B) Co to jest ?  B) Narzędzia C) Rodzaj Frameworku |                                    | Motywacje do stworzenia projektu |                 | A) Dla kogo? B) Potencjalny problem C) Spostrzeżenia , Pain points, actionable insight D) Co chcesz osiągnąć i co to zmieni ? |                  |      |      |      |
 
 
-
+> # 0.0.Co? Nazwa|Tytuł a) Czas B) Co to jest ?  B) Narzędzia C) Rodzaj Frameworku   **<u>Najrótszy frame</u>** - Cel - Opis Motywacji : Opis Kontekstu | Określenie hipotezy problemu | Rozwiązanie |
 
 
 Tutaj jakiś link[^1].
@@ -29,13 +29,21 @@ Tutaj jakiś link[^1].
 <br />
 
 # Table of Contents
-1. [Example](#EEEEE)
-2. [Example2](#example2)
+1. [Proces](#Proces)
+2. [Podejście](#Podejście)
 3. [Podsumowanie](#Podsumowanie)
 3. [Footnotes](#footnotes)
 
-## EEEEE
-## Example2
+## Proces
+Jako metodę iteracji traktowałam spotkania ze znajomym i rozmowa na temat postępu i wyciągnięcia wniosków.
+Jednak nie miałam możliwości, by ciągle kogoś męczyć - iteracja i rewidowanie postępu polegało na wysyłaniu do siebie meili, oraz wydrukowywaniu zrobionych materiałów i przeprowadzanie warsztatów "na sucho" 
+
+
+
+## Podejście
+Podejście
+Moje podejście do projektowania oparte procesie  Lean i Design Thinking,  który składa się z faz: Discover/Define/Ideate/Prototype/Test and refine.
+Lean - Przeprowadzenie Analizy Heurystycznej. 
 ## Podsumowanie
 
 -  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
