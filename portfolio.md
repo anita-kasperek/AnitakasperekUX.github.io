@@ -21,9 +21,30 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 **Czas:** Marzec - Kwiecień 2021<br>
 **Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;<br>
 **Proces:** Design Thinking, Lean Design;<br>
-
+**Cel:** 
+- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
+- Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
 **Problem:** Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?- <br>
-**Hipoteza:**                <br>
+
+**Pytanie** Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ? 
+<br>
+**Spostrzeżenia:**<br>
+**Pain Points:** Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów -  nie wie, czy zaznaczył dobrze.<br>
+**Hipoteza:**   
+
+Rozszerzenie zakładki aplikacji o dodatkowe funkcje, które w założeniu miałyby informować użytkownika o interakcji z alplikacją. Zapewnia lepszy feedback. <br>
+
+Stan Hipotezy - Myślę, że problemem użytkownika, który próbuje dokonać zakupów poprzez aplikację i zaczyna się frustrować, podczas wybierania przedmiotów z przepełnionego koszyka, jest niewystarczające informowanie użytkowników o ich działaniach, które sprawdzane są dopiero na kolejnej stronie. 
+<br>
+
+
+- Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika
+
+- Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
+
+- Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br>
+
+        <br>
 **Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 <br> 
 **Osobiste Motywacje** 
