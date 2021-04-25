@@ -86,17 +86,21 @@ Tutaj jakiś link[^1].
 
 ## Proces
 -
-
+---
 # Odkrywanie
 Użytkownik - Aby zrozumieć
 Aby nauczyć się o...
 
+---
 
-## Podejście
+# Podejście
 Podejście
 Moje podejście do projektowania oparte procesie  Lean i Design Thinking,  który składa się z faz: Discover/Define/Ideate/Prototype/Test and refine.
 Lean - Przeprowadzenie Analizy Heurystycznej. 
-##### Podsumowanie
+
+---
+
+# Podsumowanie
 
 -  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
 
@@ -116,7 +120,7 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 
  
 
-LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
+## LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
   Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
 - Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. 
 - Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. 
