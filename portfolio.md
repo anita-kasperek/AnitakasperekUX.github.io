@@ -21,10 +21,10 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 **Co?** Ćwiczenie Projektowe <br>
 **Czas:** Marzec - Kwiecień 2021<br>
 **Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;<br>
-**Proces:** Design Thinking, Lean Design;
+**Proces:** Design Thinking, Lean Design;<br>
 
 **Tytuł:** Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?- <br>
-**Propozycja** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
+**Efekt:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 <br>
 ## Podsumowanie
 <br> 
