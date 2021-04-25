@@ -75,10 +75,10 @@ Tutaj jakiś link[^1].
 <br />
 
 # Table of Contents
-1. [Proces](#Proces)
-2. [Odkrywanie](#Odkrywanie)
-3. [Podejście](#Podejście)
-4. [Podsumowanie](#Podsumowanie)
+1. [Proces](#proces)
+2. [Odkrywanie](#odkrywanie)
+3. [Podejście](#podejście)
+4. [Podsumowanie](#podsumowanie)
 5. [Footnotes](#footnotes)
 
 ## Proces
