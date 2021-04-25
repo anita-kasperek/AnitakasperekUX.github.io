@@ -17,8 +17,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 # 1. Opis Projektu 
  <details>
-<summary>[Podstawowe Informacje]()</summary>
+<summary>Podstawowe Informacje</summary>
 <br>
+  # Table of Contents
+1. [Proces](#proces)
+2. [Odkrywanie](#odkrywanie)
+3. [Podejście](#podejście)
+4. [Podsumowanie](#podsumowanie)
+5. [Footnotes](#footnotes)
+
 **Co to jest:** Ćwiczenie Projektowe <br>
 **Czas:** Marzec - Kwiecień 2021<br>
 **Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;<br>
@@ -77,12 +84,6 @@ Tutaj jakiś link[^1].
 
 <br />
 
-# Table of Contents
-1. [Proces](#proces)
-2. [Odkrywanie](#odkrywanie)
-3. [Podejście](#podejście)
-4. [Podsumowanie](#podsumowanie)
-5. [Footnotes](#footnotes)
 
 ## Proces
 -
