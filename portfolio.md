@@ -206,6 +206,7 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 <br />
 
 
+
 ---
 
 
