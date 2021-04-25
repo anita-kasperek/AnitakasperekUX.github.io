@@ -25,14 +25,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.<br>
 <h3> Motywacja:</h3>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
-Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.
+Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. </details>
 ---
 <h3>
 Problem
-</h3>
-<br></details>
-<br>
-<details>
+</h3><details>
 <summary><h2>Problem:</h2></summary> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
 <h3>
 Pytanie:
