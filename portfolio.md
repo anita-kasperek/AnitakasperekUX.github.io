@@ -13,7 +13,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br>
-<h3>Podstawowe Informacje:</h3><details>
+<details><h3>Podstawowe Informacje:</h3>
   <summary></summary>
 <h4>Co to jest:</h4>Ćwiczenie Projektowe<br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
