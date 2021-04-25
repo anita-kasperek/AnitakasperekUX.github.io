@@ -10,17 +10,21 @@ blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
-**Informacje ogólne:**
+**Informacje ogólne:
 
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
-
+ <details>
+<summary>Podstawowe Informacje</summary>
+<br>
 **Co to jest:** Ćwiczenie Projektowe <br>
 **Czas:** Marzec - Kwiecień 2021<br>
 **Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;<br>
 **Proces:** Design Thinking, Lean Design;<br>
+</details>
+
 **Cel:** 
 - Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
