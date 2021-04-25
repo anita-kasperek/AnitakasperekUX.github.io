@@ -22,13 +22,11 @@ Aby zdefiniować 0.1 ## Tytuł: Czy aplikacja jest intuicyjna dla użytkownika, 
 <br>
 ## Podsumowanie
 <br> 
-**Osobiste Motywacje 
+**Osobiste Motywacje** 
 <br>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie "problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji. 
 <br>
-Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. 
-
-Również motywacją była chęć do sprawdzenia UX-owych metod w praktyce. 
+Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. 
 
 **Kto brał w nim udział:** niestety, tylko ja 🙂 ;<br>
 Jednak Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
