@@ -153,7 +153,7 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 ---
 
 <details>
-<summary>Website </summary>
+  <summary><h1>Website</h1></summary>
 <br>
 
 # Website
