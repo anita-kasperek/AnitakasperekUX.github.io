@@ -160,11 +160,11 @@ LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
 ---
 
 <details>
-<summary>Open-Source ✅</summary>
+  <h1><summary>Open-Source ✅</summary></h1>
 <br>
 
 
-# Open-source
+<h2>Open-source</h2>
 
 ## App
 
