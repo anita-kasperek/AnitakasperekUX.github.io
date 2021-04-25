@@ -18,12 +18,20 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 
 
-## Tytuł: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? Ćwiczenie projektowe - **Propozycja** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
+Aby zdefiniować 0.1 ## Tytuł: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? Ćwiczenie projektowe - **Propozycja** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 <br>
 ## Podsumowanie
 <br> 
-**Motywacja:**i **Opis Kontekstu:**<br>
-**Kto brał w nim udział:** ja :D; + Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
+**Osobiste Motywacje 
+<br>
+Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie "problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji. 
+<br>
+Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. 
+
+Również motywacją była chęć do sprawdzenia UX-owych metod w praktyce. 
+
+**Kto brał w nim udział:** niestety, tylko ja 🙂 ;<br>
+Jednak Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
 <br>**Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;
 <br>
 **Czas:** Marzec - Kwiecień 2021
