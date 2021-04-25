@@ -22,14 +22,14 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 ## Podsumowanie
 <br> 
-**Motywacja:** **Opis Kontekstu:**
+**Motywacja:**i **Opis Kontekstu:**<br>
 **Kto brał w nim udział:** ja :D; + Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
-**Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;
-
+<br>**Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;
+<br>
 **Czas:** Marzec - Kwiecień 2021
+<br>
 **Cel:**
-
-
+<br>
 Framework:
 **Problem:**
 **Hipoteza:**
