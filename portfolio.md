@@ -13,8 +13,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br>
-<details>
-  <summary><h2>Podstawowe Informacje</h2></summary>
+<h3>Podstawowe Informacje<details>
+  <summary>:</h3></summary>
 <h4>Co to jest:</h4>Ćwiczenie Projektowe<br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
@@ -26,7 +26,6 @@ Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka os�
 <h3> Motywacja:</h3>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
 Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.
-<br>
 ---
 <h3>
 Problem
