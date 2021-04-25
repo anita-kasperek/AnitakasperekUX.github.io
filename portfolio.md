@@ -28,9 +28,9 @@ Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego temat
 Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. </details>
 ---
 <h3>
-Problem
+Problem:
 </h3><details>
-<summary><h2>Problem:</h2></summary> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
+  <summary></summary> <h3>Problem:</h3> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
 <h3>
 Pytanie:
 </h3>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br>
