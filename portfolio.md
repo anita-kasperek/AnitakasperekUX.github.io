@@ -18,24 +18,22 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 
 
-
-## Podsumowanie Tytuł: [Co? Kogo? Co pokazuje Case study?] 
+## Tytuł: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? Ćwiczenie projektowe - **Projekt** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
+<br>
+## Podsumowanie
 <br> 
-## Czy aplikacja allegro jest wystarczająco intuicyjna dla stałych użytkowników ?
+**Motywacja:** **Opis Kontekstu:**
+**Kto brał w nim udział:** ja :D; + Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
+**Narzędzia:** Papier i dużo kartek, Drukarka, Typora, Figma;
 
-**Projekt** wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 **Czas:** Marzec - Kwiecień 2021
-Co to jest? - Ćwiczenie projektowe 
-Kto brał w nim udział: ja :D; + Konsultowałam 2 razy proces z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
-Narzędzia: Papier i dużo kartek, Drukarka, Typora, Figma, 
-Motywacja:
-Cel:
-Opis Kontekstu:
+**Cel:**
+
 
 Framework:
-Problem:
-Hipoteza:
-Rozwiązanie:
+**Problem:**
+**Hipoteza:**
+**Rozwiązanie:**
 
 
 # Title and cover
