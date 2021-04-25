@@ -15,7 +15,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
-
+# 1. Opis Projektu 
  <details>
 <summary>Podstawowe Informacje</summary>
 <br>
@@ -60,10 +60,13 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
 Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
 <br>
 
+# 2.Proces 
+<br>
+Jako metodę iteracji traktowałam spotkania ze znajomym i rozmowa na temat postępu i wyciągnięcia wniosków.
+Jednak nie miałam możliwości, by ciągle kogoś męczyć - iteracja i rewidowanie postępu polegało na wysyłaniu do siebie meili, oraz wydrukowywaniu zrobionych materiałów i przeprowadzanie warsztatów "na sucho" 
+[wstaw zdjęcie]()
 
-# Title and cover
-2Project description
-3Team and roles
+
 4Discovery
 5Process
 aProblem-solution pairs
@@ -82,8 +85,7 @@ Tutaj jakiś link[^1].
 5. [Footnotes](#footnotes)
 
 ## Proces
-Jako metodę iteracji traktowałam spotkania ze znajomym i rozmowa na temat postępu i wyciągnięcia wniosków.
-Jednak nie miałam możliwości, by ciągle kogoś męczyć - iteracja i rewidowanie postępu polegało na wysyłaniu do siebie meili, oraz wydrukowywaniu zrobionych materiałów i przeprowadzanie warsztatów "na sucho" 
+-
 
 # Odkrywanie
 Użytkownik - Aby zrozumieć
