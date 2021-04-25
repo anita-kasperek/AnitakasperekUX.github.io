@@ -19,12 +19,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
  <details>
 <summary>Podstawowe Informacje</summary>
 <br>
-  # Table of Contents
-1. [Proces](#proces)
-2. [Odkrywanie](#odkrywanie)
-3. [Podejście](#podejście)
-4. [Podsumowanie](#podsumowanie)
-5. [Footnotes](#footnotes)
+
 
 **Co to jest:** Ćwiczenie Projektowe <br>
 **Czas:** Marzec - Kwiecień 2021<br>
@@ -84,6 +79,13 @@ Tutaj jakiś link[^1].
 
 <br />
 
+  # Table of Contents
+1. [Proces](#proces)
+2. [Odkrywanie](#odkrywanie)
+3. [Podejście](#podejście)
+4. [Podsumowanie](#podsumowanie)
+5. [Footnotes](#footnotes)
+6. 
 
 ## Proces
 -
@@ -162,6 +164,7 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 
 </details>
 
+
 ---
 
 <details>
@@ -174,3 +177,20 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 ## App
 
 </details>
+
+# Hotwire Stack
+
+<details open>
+<summary>Hotwire 🔥</summary>
+<br>
+
+
+- [Turbo](https://turbo.hotwire.dev/)
+  - [Turbo Drive](https://turbo.hotwire.dev/handbook/drive)
+  - [Turbo Frames](https://turbo.hotwire.dev/handbook/frames)
+  - [Turbo Stream](https://turbo.hotwire.dev/handbook/streams)
+- [Stimulus](https://stimulus.hotwire.dev/)
+- Strada (soon)
+
+</details>
+
