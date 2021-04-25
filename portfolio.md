@@ -6,7 +6,6 @@ items:
   ----
 layout: post
 title: Portfolio / Case Study
-date: Kwiecień-15-2021
 blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
