@@ -10,8 +10,9 @@ blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
+[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
-<img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
+
 <br>
 <h3>Podstawowe Informacje:</h3><details>
   <summary></summary>
