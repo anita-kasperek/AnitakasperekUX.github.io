@@ -17,7 +17,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br />
 # 1. Opis Projektu 
  <details>
-<summary>Podstawowe Informacje</summary>
+<summary>[Podstawowe Informacje]()</summary>
 <br>
 **Co to jest:** Ćwiczenie Projektowe <br>
 **Czas:** Marzec - Kwiecień 2021<br>
