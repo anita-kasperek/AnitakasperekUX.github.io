@@ -13,7 +13,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
 **Informacje ogólne:**
 
-<img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%207.png" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
