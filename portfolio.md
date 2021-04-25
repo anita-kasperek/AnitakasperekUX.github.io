@@ -55,21 +55,7 @@ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></i>
 <h3>Rozwiązanie:</h3> Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 ---------------------------
 # 1. Opis Projektu 
@@ -195,6 +181,7 @@ Lean - Przeprowadzenie Analizy Heurystycznej.
 - Probowałam wyznaczyć sobie cele ale był ponad moje siły. Postanowiłam, że wykonam pełny proces włącznie z prototypem i postawieniem strony , oraz dopracowaniem UI i interakcji. Nie udało się.
 - Zrezygnowałam z kopletnej fazy research - Zamiast Testu Użyteczności, który powinnam przeprowadzić od razu i przygotować pytania takie jak:
 - --------------- Przeprowadziłam analizę heurystyczną, zakładając że tak będzie szybciej i efektywniej i że tym sposobem pokażę więcej UX Deliverables. 
+<br>
 
 
 
