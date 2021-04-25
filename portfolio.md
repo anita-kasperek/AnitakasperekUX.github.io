@@ -43,8 +43,7 @@ Stan Hipotezy - Myślę, że problemem użytkownika, który próbuje dokonać za
 - Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 
 - Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br>
-
-        <br>
+ <br>
 **Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.
 <br> 
 **Osobiste Motywacje** 
