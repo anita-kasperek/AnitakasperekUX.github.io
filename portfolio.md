@@ -16,7 +16,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <h3>Podstawowe Informacje:</h3><details>
   <summary></summary>
-Co to jest: - Ćwiczenie Projektowe <br>
+## Co to jest: - Ćwiczenie Projektowe <br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
 <h4>Czas:</h4> Marzec - Kwiecień 2021<br>
