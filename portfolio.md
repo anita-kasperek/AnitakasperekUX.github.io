@@ -4,7 +4,7 @@ title: portfolio
 slug: /portfolio
 items:
   ----
-layout: post
+layout: main
 title: Portfolio / Case Study
 blurb: "Intro"
 og_image: "Intro"
