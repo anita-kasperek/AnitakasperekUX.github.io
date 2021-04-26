@@ -12,7 +12,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
-<br>
 <h3>Podstawowe Informacje:</h3><details>
   <summary></summary>
 <h4>Co to jest:</h4>Ćwiczenie Projektowe<br>
@@ -27,9 +26,8 @@ Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka os�
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
 Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. </details>
 <br>
-
 -------------
-
+<br>
 <h3>
 Problem:
 </h3><details>
