@@ -15,11 +15,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
+|                           |      |
+| ------------------------- | ---- |
+| ## Podstawowe Informacje | ℹ️    |
 
-
-## Podstawowe Informacje:    <h4>ℹ️</h4>
-
-
+<br>
 |                    |                                                              |
 | ------------------ | ------------------------------------------------------------ |
 | **Problem** `      | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
