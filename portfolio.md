@@ -47,7 +47,6 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
   
 <br>
 
----
 <h3>
 Problem
 </h3>
