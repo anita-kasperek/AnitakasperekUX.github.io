@@ -15,26 +15,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
-<h3>Podstawowe Informacje:</h3>
-<details>
-<summary></summary>
- <br>
-<br>
-  <h4>Co to jest:<h/4> <br>
-<h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
-- Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
-<h4>Czas:</h4> Marzec - Kwiecień 2021<br>
-<h4>Narzędzia:</h4> Papier i dużo kartek, Drukarka, Typora, Figma;<br>
-<h4>Proces:</h4> Design Thinking, Lean Design;<br>
-<h3>Kto brał w nim udział:</h3> niestety, tylko ja;
-Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.<br>
-<h3> Motywacja:</h3>
-Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
-Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.
-    </details>
-  
-<br>
-
 <h3>
 Problem
 </h3>
@@ -60,6 +40,24 @@ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 
 Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></i>
 <h3>Rozwiązanie:</h3> Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br>
+</details>
+<br>
+<h3>Podstawowe Informacje:</h3>
+<details>
+<summary></summary>
+ <br>
+<br>
+  <h4>Co to jest:<h/4> <br>
+<h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
+- Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
+<h4>Czas:</h4> Marzec - Kwiecień 2021<br>
+<h4>Narzędzia:</h4> Papier i dużo kartek, Drukarka, Typora, Figma;<br>
+<h4>Proces:</h4> Design Thinking, Lean Design;<br>
+<h3>Kto brał w nim udział:</h3> niestety, tylko ja;
+Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.<br>
+<h3> Motywacja:</h3>
+Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
+Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.<br>
 </details>
 <br>
 
