@@ -18,12 +18,16 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
+
+
 |                |                                                |
-| :------------: | ---------------------------------------------- |
-|    **Co:**     | Ćwiczenie Projektowe                           |
-|   **Czas:**    | Marzec - Kwiecień 2021                         |
+| :------------- | ---------------------------------------------- |
+| **Co:**        | Ćwiczenie Projektowe                           |
+| **Czas:**      | Marzec - Kwiecień 2021                         |
 | **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
-|  **Proces:**   | Design Thinking, Lean Design;                  |
+| **Proces:**    | Design Thinking, Lean Design;                  |
+
+
 
 
 
@@ -37,7 +41,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
  1.Podstawowe Informacje:    ℹ️ 
 -----------
 
-**Problem:**  Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
+**Problem:** &nbsp;&nbsp; Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 
 <details><summary><i><b>Pytanie:❓</b></i></summary><i>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
 
