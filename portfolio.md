@@ -67,7 +67,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 **Rozwiązanie:** &nbsp; Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. 
 <br>
-
+<br>
 
 ## 3.Proces 🔄
 
