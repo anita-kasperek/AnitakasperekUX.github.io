@@ -18,7 +18,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br>
 <p style="text-align: center;"><b>Cel:</b><br>
-- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
+Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 
 Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach w trakcie zakupów, praz pokazanie spójnego procesu i zebranie opinii.</p><br> 
 
