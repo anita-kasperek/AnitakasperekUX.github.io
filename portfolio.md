@@ -54,32 +54,29 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><i><b>Hipoteza: 🤔</b></i></summary><i> Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest  wystarczająco informowany o ich działaniach.</i></details>
+<details><summary><b>Hipoteza: 🤔</b></summary> Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest  wystarczająco informowany o ich działaniach.</details>
 
 
 ---
 
-<details><summary><i><b>Potencjalne Korzyści:🎉 </b></i></summary><i> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i></details>
+<details><summary><b>Potencjalne Korzyści:🎉 </b></summary> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</details>
 
 ---
 <br>
-**Rozwiązanie:** &nbsp; Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. 
+**Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. 
 <br>
 <br>
 
 ## 3.Proces 🔄
 <br>
-
-**Proces:** Starałam się, by był elastyczny - koncentrować na problemie użytkowników.Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
+**Proces:** Starałam się, by był elastyczny.  Podczas fazy ideacji 
+Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
 <br>
 
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)
 <br>
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)
-<br>
-<br>
 **MVP**
 Wyznaczyłam rzeczy, które chcę i powinnam skończyć najpierw: 
 .**Co było zależne od najkrótszej drogi do osiągnięcia sukcesu (MVP) ?** 
