@@ -10,7 +10,10 @@ blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
----
+---   
+<br>
+
+[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 <br>
 <table style="width:100%">
   <tr>
@@ -23,10 +26,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
   </tr>
 </table>
       
-<br>
-
-[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
-
 
 <br>
 <br>
@@ -49,7 +48,6 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
   
 <br>
 
-----------------------------
 
 <br>
 <h3>Problem:</h3>
