@@ -4,8 +4,8 @@ title: portfolio
 slug: /portfolio
 items:
   ----
-layout: main
-title: Portfolio / Case Study
+layout: work
+title: 
 blurb: "Intro"
 og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
