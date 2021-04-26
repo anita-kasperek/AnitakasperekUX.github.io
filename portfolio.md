@@ -58,7 +58,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-**Hipoteza:** &nbsp; Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach.
+**Hipoteza:** &nbsp; Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wystarczająco informowany o ich działaniach.
 
 
 **Rozwiązanie:** &nbsp; Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. 
