@@ -24,7 +24,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><b>Cel:</b></summary> <i>Celem zadania było zebranie opinii i ocena rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</i></details>
+<details><summary><b>Cel:</b></summary> <i>Celem zadania było zebranie opinii i badanie rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</i></details>
 
 ---
 
