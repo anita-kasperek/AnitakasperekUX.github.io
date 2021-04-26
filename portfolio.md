@@ -14,19 +14,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
-<br>
-<table style="width:100%">
-  <tr>
-    <td><h4>Co to jest:
-    <td>Ćwiczenie Projektowe</td>
-  <tr>
-    <td><h4>Cel:
-    <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
 
-      
-
-<br>
-<br>
 <h3>Podstawowe Informacje:</h3>
 <details>
 <summary></summary>
@@ -77,5 +65,17 @@ Model Mentalny stałego użytkownika używającego wersji webowej, będzie spój
 
 <br>
 
+<br>
+<table style="width:100%">
+  <tr>
+    <td><h4>Co to jest:
+    <td>Ćwiczenie Projektowe</td>
+  <tr>
+    <td><h4>Cel:
+    <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
 
+      
+
+<br>
+<br>
 
