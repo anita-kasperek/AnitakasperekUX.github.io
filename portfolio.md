@@ -48,17 +48,17 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)
 
-<details><summary><b>Pytanie: ❓</b></summary> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ? </details>
+<details><summary><b>Pytanie: ❓</b></summary> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br> </details>
 
 
 ---
 
-<details><summary><b>Hipoteza: 🤔</b></summary> <i>Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o swoich działaniach</i>.</details>
+<details><summary><b>Hipoteza: 🤔</b></summary> <i>Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o swoich działaniach</i>.<br></details>
 
 
 ---
 
-<details><summary><b>Potencjalne Korzyści: 🎉 </b></summary> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</details>
+<details><summary><b>Potencjalne Korzyści: 🎉 </b></summary> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></details>
 
 ---
 <br>
