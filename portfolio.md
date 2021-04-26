@@ -43,6 +43,7 @@ Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka os�
 <h3> Motywacja:</h3>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
 Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.
+    </details>
   
 <br>
 
