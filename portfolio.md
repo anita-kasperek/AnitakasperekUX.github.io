@@ -70,13 +70,29 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 ## 3.Proces 🔄
-
-
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/35acf5b3c2f771c47ff76fc9f449b908f29bafa9/assets/img/diagram.svg)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/35acf5b3c2f771c47ff76fc9f449b908f29bafa9/assets/img/diagram.svg)
 <br>
+
+<p style="text-align: center;">Był elastyczny i starał się koncentrować na problemie użytkowników.Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
+<br>
+
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/proces1.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/proces1.png)
 <br>
+
+<br>
+**MVP**
+Wyznaczyłam rzeczy, które chcę i powinnam skończyć najpierw: 
+.**Co było zależne od najkrótszej drogi do osiągnięcia sukcesu (MVP) ?** 
+
+Scenariusz,UserFlow, Analiza Heurystyczna, Analiza Konkurencji, Wireframe, Prototyp
+
+Niestety miałam trudności z dokończeniem wszystkich etapów, głównie dlatego, że nie mam po prostu takiego doświadczenia :) 
+
+
+| **Etapy:**                                                   | **Metodologia:**                                             |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| Odkrywania (Zrozumieniu potrzeb użytkownika, zbadaniu rynku, analizie zadań użytkownika Definiowania ( Persona/Mapa Empatii i Model mentalny, Zdefiniowania Kluczowych Spostrzeżeń, Stworzeniu Mapy użytkownika,Analizy Heurystycznej.  Generowaniu Pomysłów Budowania Prototypów (Papierowe prototypy/Szkice, Wireframy)  Testowania | E/ Obserwacje, Wywiady.  D/ Pain Points, Spostrzeżenia, Mapa Empatii i Persona,User Flow, Heurystyki, I/ Analiza Konkurencji, Szkice Możliwości, Affinity Mapping P/ Prototypy, Wireframy T/ Testy Użyteczności, Wywiady |
+
 
 
 <br>
