@@ -60,8 +60,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 **Problem:👁️‍🗨️** &nbsp;&nbsp;
 - Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.
 
-<details><summary><i><b>Pytanie:❓</b></i></summary><i>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
-
+**Pytanie:❓** &nbsp;&nbsp; Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?
 
 
 **Hipoteza:** &nbsp; Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach.
