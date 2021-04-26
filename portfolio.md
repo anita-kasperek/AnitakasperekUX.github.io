@@ -16,8 +16,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
 
-
-<p style="text-align: center;"><b>Cel:</b>
+<br>
+<p style="text-align: center;"><b>Cel:</b><br>
 - Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach w trakcie zakupów, praz pokazanie spójnego procesu i zebranie opinii.</p><br> 
