@@ -102,10 +102,17 @@ Persona/Kontekst/ Dla kogo / Dane
 <br>
 
 
-## 7.Szukanie Możliwości 🔮
+## 7.Prototypowanie 🔮
+
+<br>
 
 
+## 8.Testowanie  🔮
 
+
+<br>
+
+## 9.Podsumowanie  🔮
 
 
 
