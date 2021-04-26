@@ -19,12 +19,10 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
   <tr>
     <td><h4>Co to jest:
     <td>Ćwiczenie Projektowe</td>
-  </tr>
   <tr>
     <td><h4>Cel:
     <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
-  </tr>
-</table>
+
       
 
 <br>
