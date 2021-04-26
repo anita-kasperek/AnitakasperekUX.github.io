@@ -48,7 +48,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 -----------
-<br>
+
 ## 2.Problem 🔮
 
 ![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-2.png)
