@@ -15,6 +15,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
+
+
 |      Co:       | Ćwiczenie Projektowe                           |
 | :------------: | ---------------------------------------------- |
 |   **Czas:**    | Marzec - Kwiecień 2021                         |
@@ -31,9 +33,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
  1.Podstawowe Informacje:    ℹ️ 
 -----------
 
-## Problem:     
-
-Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
+#### Problem: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 
 <details><summary><i><b>Pytanie:❓</b></i></summary><i>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
 
