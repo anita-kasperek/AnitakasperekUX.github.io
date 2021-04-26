@@ -33,7 +33,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
 | **Proces:**    | Design Thinking, Lean Design;                  |
 
-
+---------------
 <br>
 
 
