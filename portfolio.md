@@ -17,7 +17,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 
-<summary><b>Motywacja:</b></summary><details> <br>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.<br/>Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.</details>
+<details><summary><b>Motywacja:</b></summary> <br>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.<br/>Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.</details>
 
 **Cel:** <br> Celem zadania było pokazanie spójnego procesu i zebranie opinii.Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.
 
