@@ -21,7 +21,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 |                            |                                                              |
 | -------------------------- | ------------------------------------------------------------ |
-| **Problem:**.              | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
+| **Problem:**               | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 
 |                            |                                                              |
 | -------------------------- | ------------------------------------------------------------ |
@@ -39,7 +39,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Rozwiązanie:** | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. |
 
 ---
-
+ 
 
 <br>
 
