@@ -15,6 +15,14 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
+|      Co:       | Ćwiczenie Projektowe                           |
+| :------------: | ---------------------------------------------- |
+|   **Czas:**    | Marzec - Kwiecień 2021                         |
+| **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
+|  **Proces:**   | Design Thinking, Lean Design;                  |
+
+
+
 
 
 
