@@ -24,7 +24,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Problem** `      | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 | **Pytanie:**<br>   | - Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br><br> |
 | **Spostrzeżenia:** | - Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.<br><Br> |
-| **Hipoteza:**      | - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. <br><details> <summary>***Potencjalne Plusy**:</summary> <br> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.* </details>  <br> |
+| **Hipoteza:**      | - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. <br> <details> <summary>Potencjalne Plusy:</summary> <br> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.* </details>  <br> |
 | **Rozwiązanie:**   | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br><br> |
 
 <br>
