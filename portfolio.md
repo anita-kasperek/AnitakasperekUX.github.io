@@ -21,9 +21,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br>
 
-**Cel:** <br> Celem zadania było pokazanie spójnego procesu i zebranie opinii.Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.
+<details><summary><b>Cel:</b></summary><br> Celem zadania było pokazanie spójnego procesu i zebranie opinii.Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.</details>
 
-**Kto brał w nim udział:** niestety, tylko ja;Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.
+<br>
+
+<details><summary><b>Kto brał w nim udział:</b></summary><br> niestety, tylko ja;Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.</details>
+
+<br>
 
 
 
