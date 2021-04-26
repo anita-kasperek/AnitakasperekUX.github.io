@@ -17,11 +17,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 <table style="width:100%">
   <tr>
-    <td><h4>Co to jest:<h/4></td>
+    <td><h4>Co to jest:
     <td>Ćwiczenie Projektowe</td>
   </tr>
   <tr>
-    <td><h4>Cel:<h/4></td>
+    <td><h4>Cel:
     <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
   </tr>
 </table>
