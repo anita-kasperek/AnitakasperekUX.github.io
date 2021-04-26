@@ -21,15 +21,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
  ---
 
-<details><summary><b>Motywacja:</b></summary> <br>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. </details>
+<details><summary><b>Motywacja:</b></summary> Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. </details>
 
 ---
 
-<details><summary><b>Cel:</b></summary><br> Celem zadania było zebranie opinii i ocena rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</details>
+<details><summary><b>Cel:</b></summary> Celem zadania było zebranie opinii i ocena rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</details>
 
 ---
 
-<details><summary><b>Kto brał w nim udział:</b></summary><br> Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.</details>
+<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.</details>
 
 ---
 
