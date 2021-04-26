@@ -42,7 +42,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka osób z którymi przeprowadzałam wywiad.<br>
 <h3> Motywacja:</h3>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
-Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. </details>
+Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.
   
 <br>
 
@@ -71,10 +71,8 @@ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></i>
 <h3>Rozwiązanie:</h3> Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br>
 
-</details>
 
 <br>
----
 
 
 
