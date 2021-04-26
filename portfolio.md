@@ -14,7 +14,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
-<h3>Podstawowe Informacje:</h3><details>
+<h3>Podstawowe Informacje:</h3>
+<details><summary></summary>
+ <br>
 <table style="width:100%">
 
   <tr>
@@ -26,9 +28,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
     <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
   </tr>
 </table>
-      
-      <br>
-  <summary></summary>
+     
   <h4>Co to jest:<h/4><h6>- Ćwiczenie Projektowe</h6> <br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
@@ -40,12 +40,14 @@ Konsultowałam jednak proces 2 razy z projektantem spoza branży IT, + kilka os�
 <h3> Motywacja:</h3>
 Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.
 Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce. </details>
+  
+<br>
 
 ---
 
-<h3>
-Problem:
-</h3><details>
+<br>
+<h3>Problem:</h3>
+<details>
   <summary></summary> Problem: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
 <h3>
 Pytanie:
