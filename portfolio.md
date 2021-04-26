@@ -70,7 +70,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ## 3.Proces 🔄
 <br>
 
-<p style="text-align: center;">Był elastyczny i starał się koncentrować na problemie użytkowników.Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
+**Proces:** Starałam się, by był elastyczny - koncentrować na problemie użytkowników.Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
 <br>
 
 
@@ -86,7 +86,8 @@ Wyznaczyłam rzeczy, które chcę i powinnam skończyć najpierw:
 
 Scenariusz,UserFlow, Analiza Heurystyczna, Analiza Konkurencji, Wireframe, Prototyp
 
-Niestety miałam trudności z dokończeniem wszystkich etapów, głównie dlatego, że nie mam po prostu takiego doświadczenia :) 
+**Jaki był zakres projektu ? **
+Skończenie procesu. 
 
 
 | **Etapy:**                                                   | **Metodologia:**                                             |
