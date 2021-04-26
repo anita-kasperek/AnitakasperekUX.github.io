@@ -60,7 +60,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 Ma tez trudności z odznaczeniem dużej ilości produktów na raz.
 ![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-2.png)
 
-**Pytanie:❓** &nbsp;&nbsp; Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?
+<details><summary><i><b>Pytanie:❓</b></i></summary><i> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
 
 
 **Hipoteza:** &nbsp; Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach.
