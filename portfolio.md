@@ -54,7 +54,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><i><b>Hipoteza:</b></i></summary><i> Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest  wystarczająco informowany o ich działaniach.</i></details>
+<details><summary><i><b>Hipoteza: 🤔</b></i></summary><i> Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest  wystarczająco informowany o ich działaniach.</i></details>
 
 
 ---
