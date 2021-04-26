@@ -11,14 +11,14 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
-
+<br>
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
-
+<br>
 <h3>Podstawowe Informacje:</h3>
-<details><summary></summary>
+<details>
+<summary></summary>
  <br>
 <table style="width:100%">
-
   <tr>
     <td><h4>Co to jest:<h/4></td>
     <td>Ćwiczenie Projektowe</td>
@@ -28,8 +28,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
     <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
   </tr>
 </table>
-     
-  <h4>Co to jest:<h/4><h6>- Ćwiczenie Projektowe</h6> <br>
+<br>
+  <h4>Co to jest:<h/4> <br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach.<br>
 <h4>Czas:</h4> Marzec - Kwiecień 2021<br>
@@ -43,7 +43,7 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
   
 <br>
 
----
+----------------------------
 
 <br>
 <h3>Problem:</h3>
