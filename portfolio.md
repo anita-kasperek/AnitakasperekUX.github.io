@@ -64,13 +64,14 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
 <br>
 
 <br>
+<details>
 <table style="width:100%">
   <tr>
     <td><h4>Co to jest:
     <td>Ćwiczenie Projektowe</td>
   <tr>
     <td><h4>Cel:
-    <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
+    <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 
       
 
