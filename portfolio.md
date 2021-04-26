@@ -18,7 +18,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 1.Podstawowe Informacje:    ℹ️ 
 
-<br>
 
  ---
 
@@ -50,8 +49,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 -----------
 <br>
-**Problem:** &nbsp;&nbsp; Stały użytkownik Allegro, używając zakładki "koszyk", ma kłopot z widocznością zaznaczonych produktów. Nie jest pewny, czy zaznaczył dobrze.<br>
-Ma tez trudności z odznaczeniem dużej ilości produktów na raz.
+## 2. Problem
+
 ![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-2.png)
 
 <details><summary><i><b>Pytanie:❓</b></i></summary><i> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
