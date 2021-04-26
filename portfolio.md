@@ -31,8 +31,8 @@ Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użyt
 | **Problem:** | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 
 
-<details><summary><i><b>Pytanie:</summary><br>- Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</i></details>
-
+<details><summary><b>Pytanie:</b></summary><br>- Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</details>
+<br>
 
 
 
