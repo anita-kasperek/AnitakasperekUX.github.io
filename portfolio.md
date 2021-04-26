@@ -20,15 +20,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<details><summary><b>Motywacja:</b></summary> <i>&nbsp;&nbsp;&nbsp;Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu.</i> </details>
+<details><summary><b>Motywacja:</b></summary> <i>&nbsp;&nbsp;Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu.</i> </details>
 
 ---
 
-<details><summary><b>Cel:</b></summary> <i>Celem zadania było zebranie opinii i badanie rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</i></details>
+<details><summary><b>Cel:</b></summary> <i>nbsp;&nbsp;Celem zadania było zebranie opinii i badanie rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.</i></details>
 
 ---
 
-<details><summary><b>Kto brał w nim udział:</b></summary> <i>Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></i></details>
+<details><summary><b>Kto brał w nim udział:</b></summary> <i>nbsp;&nbsp;Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></i></details>
 
 ---
 
