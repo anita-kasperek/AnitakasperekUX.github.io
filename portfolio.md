@@ -46,11 +46,13 @@ Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla
   
 <br>
 
-
+---
+<h3>
+Problem
+</h3>
 <br>
-<h3>Problem:</h3>
 <details>
-  <summary></summary> Problem: Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
+<summary><h2>Problem:</h2></summary> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
 <h3>
 Pytanie:
 </h3>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br>
@@ -60,7 +62,7 @@ Pytanie:
 Hipoteza:
 </h3>
 Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach 
-<summary>.</summary.><br>
+
 <i><h4>
 Potencjalne Plusy:
 </h4>
@@ -70,7 +72,8 @@ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 
 Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></i>
 <h3>Rozwiązanie:</h3> Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br>
-
+</details>
+<br>
 
 <br>
 
