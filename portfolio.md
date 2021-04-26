@@ -15,7 +15,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
-
+ 1.Podstawowe Informacje:    ℹ️ 
+ 2.<br>
+ 3.---
 
 <details><summary><b>Motywacja:</b></summary> <br>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,był kontekst i zaobserwowanie “problemu z życia wziętego,oraz wyłapanie błędu użytkownika podczas używania aplikacji.<br/>Kolejny, to niewielki Zakres problemu, który wydał się optymalny i realny dla kogoś początkującego. Motywacją była też chęć sprawdzenia UX-owych metod w praktyce.</details>
 
@@ -54,7 +56,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
- 1.Podstawowe Informacje:    ℹ️ 
 -----------
 **Problem:** &nbsp;&nbsp; Stały użytkownik Allegro, używając zakładki "koszyk", ma kłopot z widocznością zaznaczonych produktów. Nie jest pewny, czy zaznaczył dobrze.<br>
 Ma tez trudności z odznaczeniem dużej ilości produktów na raz.
