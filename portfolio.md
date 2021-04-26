@@ -35,7 +35,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<details><h4>Potencjalne Plusy</h4><summary></summary>
+<details><summary><h5>Potencjalne Plusy</h5></summary>
 
 <i> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i>  <br>
 <br>
