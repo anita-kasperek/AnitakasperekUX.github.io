@@ -28,7 +28,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><b>Kto brał w nim udział:</b></summary> <i>Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.</i></details>
+<details><summary><b>Kto brał w nim udział:</b></summary> <i>Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></i></details>
 
 ---
 
