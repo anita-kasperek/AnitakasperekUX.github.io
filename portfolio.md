@@ -68,7 +68,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 3.Proces 🔄
 **Proces:** Starałam się, by był elastyczny.  Podczas fazy ideacji 
-Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.</p>
+Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.
 <br>
 
 
