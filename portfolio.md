@@ -28,7 +28,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 <details><summary><b>Pytanie:</b></summary><br>- Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</details>
-<br>
+
 
 
 
@@ -37,7 +37,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | :-----------: | ------------------------------------------------------------ |
 | **Hipoteza:** | - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. |
 
-<details><summary><b>Obserwacje:</b></summary><br>- Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.<br><br></details>
+<details><summary><b>Obserwacje:</b></summary><br>- Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.</details>
 
 
 
