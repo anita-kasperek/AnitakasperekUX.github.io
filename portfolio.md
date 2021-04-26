@@ -15,7 +15,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
-markdown="1"
+<markdown="1">
 |                                            |                                                              |
 | ------------------------------------------ | ------------------------------------------------------------ |
 | **Problem **` | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
