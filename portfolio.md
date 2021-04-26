@@ -17,7 +17,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 |                           |      |
 | ------------------------- | ---- |
-| ## Podstawowe Informacje | ℹ️    |
+|  <h2>Podstawowe Informacje</h2> | ℹ️    |
 
 <br>
 |                    |                                                              |
