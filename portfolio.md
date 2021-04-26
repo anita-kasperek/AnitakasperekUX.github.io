@@ -74,7 +74,7 @@ Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbie
 <br>
 
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/MacBook%20Pro%20-%2010.png)
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
 <br>
 
 **MVP**
