@@ -49,7 +49,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | :-------------: | ------------------------------------------------------------ |
 | **Rozwiązanie:** | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. |
 
-<details><summary><i><b>Potencjalne Korzyści: 👍</b></summary>- Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i></details>
+<details><summary><i><b>Potencjalne Korzyści: 👍</b></i></summary><i>- Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i></details>
 
 
 
