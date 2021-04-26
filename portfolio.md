@@ -12,40 +12,22 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-
-
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
 <h3>Podstawowe Informacje:</h3><details>
-  |             |                                                              |
-| ----------- | ------------------------------------------------------------ |
-| Co to jest: | \- Ćwiczenie Projektowe                                      |
-| Cel:        | \- Celem zadania było pokazanie spójnego procesu i zebranie opinii. - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach. |
-|             |                                                              |
-|             |                                                              |
-|             |                                                              |
-|             |                                                              |
+<table style="width:100%">
 
-
-
-
+  <tr>
+    <td><h4>Co to jest:<h/4></td>
+    <td>Ćwiczenie Projektowe</td>
+  </tr>
+  <tr>
+    <td><h4>Cel:<h/4></td>
+    <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
+  </tr>
+</table>
+      
+      <br>
   <summary></summary>
   <h4>Co to jest:<h/4><h6>- Ćwiczenie Projektowe</h6> <br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
