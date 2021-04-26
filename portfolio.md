@@ -79,5 +79,33 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 
+<br>
+
+
+## 4.Research 🔮
+
+Persona/Kontekst/ Dla kogo / Dane 
+
+
+<br>
+
+
+## 5.Definiowanie 🔮
+
+
+<br>
+
+
+## 6.Szukanie Możliwości 🔮
+
+
+<br>
+
+
+## 7.Szukanie Możliwości 🔮
+
+
+
+
 
 
