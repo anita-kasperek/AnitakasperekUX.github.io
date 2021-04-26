@@ -75,6 +75,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/35acf5b3c2f771c47ff76fc9f449b908f29bafa9/assets/img/diagram.svg)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/35acf5b3c2f771c47ff76fc9f449b908f29bafa9/assets/img/diagram.svg)
 <br>
 
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/proces1.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/proces1.png)
+<br>
 
 
 
