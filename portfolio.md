@@ -17,11 +17,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 
-|      Co:       | Ćwiczenie Projektowe                           |
+
+|                |                                                |
 | :------------: | ---------------------------------------------- |
+|    **Co:**     | Ćwiczenie Projektowe                           |
 |   **Czas:**    | Marzec - Kwiecień 2021                         |
 | **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
 |  **Proces:**   | Design Thinking, Lean Design;                  |
+
+
 
 
 
