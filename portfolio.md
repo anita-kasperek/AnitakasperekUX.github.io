@@ -34,6 +34,18 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 [![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
 
 <h3>Podstawowe Informacje:</h3><details>
+  |             |                                                              |
+| ----------- | ------------------------------------------------------------ |
+| Co to jest: | \- Ćwiczenie Projektowe                                      |
+| Cel:        | \- Celem zadania było pokazanie spójnego procesu i zebranie opinii. - Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach. |
+|             |                                                              |
+|             |                                                              |
+|             |                                                              |
+|             |                                                              |
+
+
+
+
   <summary></summary>
   <h4>Co to jest:<h/4><h6>- Ćwiczenie Projektowe</h6> <br>
 <h4>Cel:</h4>- Celem zadania było pokazanie spójnego procesu i zebranie opinii.
