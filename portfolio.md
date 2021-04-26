@@ -28,8 +28,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | ------------- | ------------------------------------------------------------ |
 | **Problem** ` | Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka? |
 
-<details> <summary><b>Pytanie:</b><br/><br/></summary>        - Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br><br>
-
+<details> <summary><b>Pytanie:</b><br/><br/></summary>        - Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br><br></details>
+<br>
 
 
 
