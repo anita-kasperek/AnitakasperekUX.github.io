@@ -44,19 +44,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br>
 
----------------
-
-<br>
-
-
-
-
-
-
-
-
 
 -----------
+<br>
 **Problem:** &nbsp;&nbsp; Stały użytkownik Allegro, używając zakładki "koszyk", ma kłopot z widocznością zaznaczonych produktów. Nie jest pewny, czy zaznaczył dobrze.<br>
 Ma tez trudności z odznaczeniem dużej ilości produktów na raz.
 ![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-2.png)
