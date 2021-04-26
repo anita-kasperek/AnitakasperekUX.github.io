@@ -16,11 +16,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
 
-<br>
-<p style="text-align: center;"><b>Cel:</b><br>
-Celem zadania było pokazanie spójnego procesu i zebranie opinii.
 
-Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użytkowników o ich działaniach w trakcie zakupów, praz pokazanie spójnego procesu i zebranie opinii.</p><br> 
 
 
 
@@ -34,6 +30,14 @@ Celem końcowym, było zaprojektowanie propozycji, która lepiej informuje użyt
 <details><summary><b>Pytanie:</b></summary><br>- Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?</details>
 <br>
 
+
+
+
+|               |                                                              |
+| :-----------: | ------------------------------------------------------------ |
+| **Hipoteza:** | - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. |
+
+<details><summary><b>Obserwacje:</b></summary><br>- Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.<br><br></details>
 
 
 
