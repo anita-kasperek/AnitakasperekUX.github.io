@@ -89,6 +89,8 @@ Skończenie procesu.
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Odkrywania (Zrozumieniu potrzeb użytkownika, zbadaniu rynku, analizie zadań użytkownika Definiowania ( Persona/Mapa Empatii i Model mentalny, Zdefiniowania Kluczowych Spostrzeżeń, Stworzeniu Mapy użytkownika,Analizy Heurystycznej.  Generowaniu Pomysłów Budowania Prototypów (Papierowe prototypy/Szkice, Wireframy)  Testowania | E/ Obserwacje, Wywiady.  D/ Pain Points, Spostrzeżenia, Mapa Empatii i Persona,User Flow, Heurystyki, I/ Analiza Konkurencji, Szkice Możliwości, Affinity Mapping P/ Prototypy, Wireframy T/ Testy Użyteczności, Wywiady |
 
+<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.Ni
+[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing),
 
 
 <br>
