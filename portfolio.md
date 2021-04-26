@@ -11,6 +11,7 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---
+<br>
 <table style="width:100%">
   <tr>
     <td><h4>Co to jest:<h/4></td>
@@ -21,8 +22,12 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
     <td>Celem zadania było pokazanie spójnego procesu i zebranie opinii.</td>
   </tr>
 </table>
+      
 <br>
-[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png) <br>
+
+[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
+
+<br>
 <br>
 <h3>Podstawowe Informacje:</h3>
 <details>
@@ -68,8 +73,10 @@ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.
 
 Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></i>
 <h3>Rozwiązanie:</h3> Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br>
+
 </details>
 
+<br>
 ---
 
 
