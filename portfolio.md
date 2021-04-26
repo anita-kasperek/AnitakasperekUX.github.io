@@ -32,7 +32,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 |               |                                                              |
 | :-----------: | ------------------------------------------------------------ |
-| **Hipoteza:**<br> |Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. |
+| **Hipoteza:**<br> |Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach.<br> |
 
 <details><summary><i><b>Obserwacje:👁️‍🗨️</b></i></summary><i>- Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.</i></details>
 
