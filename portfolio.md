@@ -53,7 +53,7 @@ Problem
 </h3>
 <br>
 <details>
-<summary><h2>Problem:</h2></summary> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
+<summary></summary> Czy aplikacja jest intuicyjna dla użytkownika, podczas wybierania produktów z koszyka?<br>
 <h3>
 Pytanie:
 </h3>Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br>
