@@ -36,12 +36,12 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <details> <summary><i><b>Obserwacja::</b></summary> <br> - Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.</i><br><br></details>  <br>
 
+|                  |                                                              |
+| ---------------- | ------------------------------------------------------------ |
+| **Rozwiazanie:** | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro.<br/><br/> |
 
+<details> <summary><i><b>Potencjalne Korzyści 👍</b></summary> <br> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i><br><br></details>  <br>
 
-
-<details><summary><h4>Potencjalne Korzyści 👍</h4></summary>
-<i>Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i> 
-<br>
 
 
 
