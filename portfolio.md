@@ -35,7 +35,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 |               |                                                              |
 | :-----------: | ------------------------------------------------------------ |
-| **Hipoteza:** | - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. |
+| **Hipoteza:** |<br> - Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o ich działaniach. |
 
 <details><summary><b>Obserwacje:</b></summary>- Stały użytkownik allegro, ma trudności z odznaczeniem produktów z koszyka, i kłopot z widocznością zaznaczonych produktów - nie wie, czy zaznaczył dobrze.</details>
 
@@ -47,9 +47,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 |                 |                                                              |
 | :-------------: | ------------------------------------------------------------ |
-| **Rozwiązanie** | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. |
+| **Rozwiązanie:** | Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. |
 
-<details><summary><b>Potencjalne Korzyści: 👍</b></summary>- Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</details>
+<details><summary><i><b>Potencjalne Korzyści: 👍</b></summary>- Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.</i></details>
 
 
 
