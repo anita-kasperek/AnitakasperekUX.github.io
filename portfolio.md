@@ -20,7 +20,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<details><summary><b>Motywacja:</b></summary> <i>&nbsp;&nbsp;&nbsp;<br>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu.</i> </details>
+<details><summary><b>Motywacja:</b></summary> <i>Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu.</i> </details>
 
 ---
 
@@ -53,7 +53,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><b>Hipoteza: 🤔</b></summary> <i>Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest  wystarczająco informowany o ich działaniach</i>.</details>
+<details><summary><b>Hipoteza: 🤔</b></summary> <i>Podczas wybierania przedmiotów z przepełnionego koszyka, użytkownik nie jest wystarczająco informowany o swoich działaniach</i>.</details>
 
 
 ---
