@@ -43,9 +43,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
 | **Proces:**    | Design Thinking, Lean Design;                  |
 
+
 <br>
 
----
+------
+
 
 ## 2.Problem 🔮
 
@@ -67,6 +69,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 **Rozwiązanie:** &nbsp; Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. 
 <br>
+
 -----------
 
 ## 3.Proces 🔄
