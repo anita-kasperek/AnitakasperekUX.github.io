@@ -13,7 +13,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---   
 <br>
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/probelm.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/probelm.png)
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
 <br>
 
 
@@ -57,7 +57,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
  1.Podstawowe Informacje:    ℹ️ 
 -----------
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)]
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/probelm.png)]
 
 **Pytanie:❓** &nbsp;&nbsp; Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?
 
