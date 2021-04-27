@@ -76,6 +76,8 @@ większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i doku
 Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 [Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
 
+
+
 <br>
  
  
@@ -96,13 +98,7 @@ Zamiast skończyć Fazę Definiowania, przeszłam do szukania możliwości i roz
 Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
 Proces:
 
-
-
-
-
 Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania.
-
-
 
 
 
@@ -127,6 +123,10 @@ Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar ze
 
 <br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
+
+<br>
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
+
 
 
 
