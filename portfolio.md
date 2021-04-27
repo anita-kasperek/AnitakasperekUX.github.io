@@ -72,7 +72,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
 
 Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing).
 [Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
 
 <br>
