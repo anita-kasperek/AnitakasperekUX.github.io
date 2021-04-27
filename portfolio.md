@@ -100,9 +100,9 @@ Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną gra
   <br> 
 Myślałam również o tym, jakie metody są najważniejsze i pomogą osiągnąć mi cel (MVP),<br>
 dlatego zdecydowałam się głównie na:<br>
-Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp*<br>
-
-<blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze się męczę..</blockquote><br>
+Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp.<br>
+<br>
+<blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote><br>
 
 Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
 user flow i wireframeów. <br>Był to niestety błąd który wydłużył mi pracę i namieszał w procesie...
@@ -110,15 +110,15 @@ user flow i wireframeów. <br>Był to niestety błąd który wydłużył mi prac
 Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. <br>
 Proces:
 <br>
-Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania.
+Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania, zamiast podsumowywać i walidować wcześniej znaleziska i proces.
 <br>
 
 
-Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
+**Szukanie Możliwości** - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
 <br>
-Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
+**Prototypowanie** - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
 <br>
-Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
+**Testowanie** - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
  <br>
  
 -------
