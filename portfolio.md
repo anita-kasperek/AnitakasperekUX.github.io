@@ -68,37 +68,44 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 3.Proces 🔄
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
- <br>
+ Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
+większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
+<br>
+ 
+ 
 <details><summary><b>Dokładny opis procesu</b></summary> 
   Strategia: 
-  Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę [research](#research) do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
-  
-  <br></details>
-
-
-
-**Założenia:** 
+  Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research[^1] do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
+  <br> 
 Zastanowiłam się również, jakimi metodami, mogłabym efektywnie uzyskać efekt, który byłby zadowalający (MVP),
 dlatego zdecydowałam się głównie na metodologiach takich jak:
 Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp*
 
 > * Z tym ostatnim ze względu na ograniczenie wiedzy miałam problem.
 
-Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
-większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
+Zamiast skończyć Fazę Definiowania, przeszłam do szukania możliwości i rozrysowywania user flow i wireframeów. BYł to niestety błąd który wydłużył mi pracę i namieszał w procesie. 
+
+Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
+
+Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
+
+Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakoało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
+
+Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać. 
+
+<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
+[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing),
+  
+  <br></details>
+
 <br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
 <br>
 
-
-<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing),
-
-
 <br>
 
 
-## 4.Research 🔮
+## 4.Research 🔮 [^1]
 
 Persona/Kontekst/ Dla kogo / Dane 
 
