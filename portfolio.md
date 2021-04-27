@@ -67,7 +67,12 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 
 ## 3.Proces 🔄
-**Proces:** Starałam się, by był elastyczny.  Podczas fazy ideacji 
+**Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
+Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research do krótkich wywiadów, spostrzeżeń, czy przeprowadzeniu szybkiego testu użyteczności na jednej osobie. 
+
+Mimo wszystko,starałam się, by proces był elastyczny.<br>
+Po zebraniu i podsumowaniu informacji od użytkowników, ustaleniu hipotezy i analizie user flow 
+Podczas fazy ideacji 
 Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.
 <br>
 
