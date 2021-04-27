@@ -71,7 +71,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
  Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
 większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
 
-
+Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
+[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing).
 
 <br>
  
@@ -97,9 +98,9 @@ Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których u
 Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakoało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
 
 Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać. 
-
-<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing). </details>
+ <br></details>
+ 
+ 
 -------
 
 <br>
