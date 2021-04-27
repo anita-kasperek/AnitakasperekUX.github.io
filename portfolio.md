@@ -68,34 +68,24 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 3.Proces 🔄
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
-Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research do krótkich wywiadów, spostrzeżeń, czy przeprowadzeniu szybkiego testu użyteczności na jednej osobie. 
+Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam <u>fazę research</u> do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie. <br>
 
-Mimo wszystko,starałam się, by proces był elastyczny.<br>
-Po zebraniu i podsumowaniu informacji od użytkowników, ustaleniu hipotezy i analizie user flow 
-Podczas fazy ideacji 
-Polegał na ciągłej iteracji, eksperymentowaniu, testowaniu rozwiązań i zbieraniu informacji zwrotnej, a etapy bazowały na modelu Design Thinking i UCD.
+**Założenia:** 
+Zastanowiłam się również, jakimi metodami, mogłabym efektywnie uzyskać efekt, który byłby zadowalający (MVP),
+dlatego zdecydowałam się głównie na metodologiach takich jak:
+Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp*
+
+> * Z tym ostatnim ze względu na ograniczenie wiedzy miałam problem.
+
+Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
+większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
 <br>
-
-
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
 <br>
 
-**MVP**
-Wyznaczyłam rzeczy, które chcę i powinnam skończyć najpierw: 
-.**Co było zależne od najkrótszej drogi do osiągnięcia sukcesu (MVP) ?** 
 
-Scenariusz,UserFlow, Analiza Heurystyczna, Analiza Konkurencji, Wireframe, Prototyp
-
-**Jaki był zakres projektu ? **
-Skończenie procesu. 
-
-
-| **Etapy:**                                                   | **Metodologia:**                                             |
-| :----------------------------------------------------------- | ------------------------------------------------------------ |
-| Odkrywania (Zrozumieniu potrzeb użytkownika, zbadaniu rynku, analizie zadań użytkownika Definiowania ( Persona/Mapa Empatii i Model mentalny, Zdefiniowania Kluczowych Spostrzeżeń, Stworzeniu Mapy użytkownika,Analizy Heurystycznej.  Generowaniu Pomysłów Budowania Prototypów (Papierowe prototypy/Szkice, Wireframy)  Testowania | E/ Obserwacje, Wywiady.  D/ Pain Points, Spostrzeżenia, Mapa Empatii i Persona,User Flow, Heurystyki, I/ Analiza Konkurencji, Szkice Możliwości, Affinity Mapping P/ Prototypy, Wireframy T/ Testy Użyteczności, Wywiady |
-
-<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.Ni
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/file/d/1hEogPlysEIRWZVdXuUgcO1zGA7fMLJJW/view?usp=sharing),
+<i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
+[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing),
 
 
 <br>
