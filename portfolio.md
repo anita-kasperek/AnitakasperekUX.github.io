@@ -137,8 +137,19 @@ Persona/Kontekst/ Dla kogo / Dane
 <br>
 
 
-## 6.Szukanie Możliwości 🔮
+## 6.Szukanie Możliwości 💡
 
+---   
+<br>
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Poro%CC%81wnanie%20wersji%20mobilnej%20do%20webowej%20-%20Alliexpress%20copy.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Poro%CC%81wnanie%20wersji%20mobilnej%20do%20webowej%20-%20Alliexpress%20copy.png)
+<br>
+---  
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%203461.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Frame%203461.png)
+<br>
+
+---  
 
 <br>
 
