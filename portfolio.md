@@ -92,8 +92,9 @@ Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną gra
 <br><br>
 
 
-<details><summary><b>Dokładny opis procesu</b></summary> 
- **Strategia:**
+<details><summary><b>Dokładny opis procesu:</b></summary> 
+ <b>Strategia:</b>
+  
   <br>
   Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - <br> ograniczyłam fazę research do krótkich wywiadów, spostrzeżeń, hipotezy, heurystykach, oraz testu użyteczności na jednej osobie.
   <br> 
