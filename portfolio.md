@@ -13,7 +13,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---   
 <br>
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/tytul.png)
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)
 <br>
 
 ## 1.Podstawowe Informacje  ℹ️ 
@@ -47,9 +47,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ## 2.Problem 🔮
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)
-
-
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-1.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem-1.png)
 
 
 
