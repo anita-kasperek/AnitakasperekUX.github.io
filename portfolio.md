@@ -48,6 +48,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)
 
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)
+
+
+
 <details><summary><b>Pytanie: ❓</b></summary> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br> </details>
 
 
@@ -92,6 +97,16 @@ Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototy
 Zamiast skończyć Fazę Definiowania, przeszłam do szukania możliwości i rozrysowywania user flow i wireframeów. BYł to niestety błąd który wydłużył mi pracę i namieszał w procesie. 
 
 Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
+Proces:
+
+
+
+
+
+Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam dalej. 
+
+
+
 
 Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
 
