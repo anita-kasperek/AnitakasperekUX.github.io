@@ -70,7 +70,12 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
  Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
 większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
+
+
+
 <br>
+ 
+ 
  
  
 <details><summary><b>Dokładny opis procesu</b></summary> 
@@ -94,13 +99,25 @@ Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze
 Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać. 
 
 <i>Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing),
-  
-  <br></details>
+[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing).</details>
+
+
+<br>
+
+
+
+-----
+
+
 
 <br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
+
+
+
 <br>
+
+
 
 <br>
 
