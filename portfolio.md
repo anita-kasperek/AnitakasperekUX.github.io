@@ -122,11 +122,8 @@ Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar ze
 <br>
 
 <br>
-
-
-[![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
-
-
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
+<br>
 <br>
 <br>
 
