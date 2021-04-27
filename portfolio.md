@@ -125,8 +125,11 @@ Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar ze
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/poprawiony%20proces.png)
 
 <br>
+<br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
 
+
+<br>
 
 
 
