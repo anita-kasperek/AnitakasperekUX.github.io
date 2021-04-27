@@ -76,9 +76,12 @@ większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i doku
 
 Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 [Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
+<br>
 
- 
- 
+Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną grafikę. 
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
+<br>
 <details><summary><b>Dokładny opis procesu</b></summary> 
   Strategia: 
   Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research[^1] do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
@@ -108,8 +111,6 @@ Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar ze
 -------
 <br>
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
-<br>
 
 ## 4.Research 🔮 
 
