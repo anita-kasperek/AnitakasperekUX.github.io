@@ -80,7 +80,9 @@ Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną grafikę. 
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
-<br>
+<br><br>
+
+
 <details><summary><b>Dokładny opis procesu</b></summary> 
   Strategia: 
   Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research[^1] do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
