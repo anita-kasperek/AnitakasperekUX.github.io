@@ -42,8 +42,12 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 
 
 <br>
+Źródła z których korzystałam - 
+[Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}
+<br>
 
 
+<br>
 ## 2.Problem 🔮
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)
