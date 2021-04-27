@@ -11,11 +11,10 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
-<br>
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)
 <br>
-
+<br>
 ## 1.Podstawowe Informacje  ℹ️ 
 
 
@@ -68,7 +67,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 Koncepcja rozszrza jedną stronę aplikacji, o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
 [zdjęcie końcowe]
 <br>
-
+<br>
 ## 3.Proces 🔄
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
  Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
