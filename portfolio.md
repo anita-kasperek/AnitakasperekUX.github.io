@@ -100,7 +100,8 @@ Proces:
 
 
 
-Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam dalej. 
+Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania.
+
 
 
 
@@ -152,6 +153,24 @@ Persona/Kontekst/ Dla kogo / Dane
 
 ## 6.Szukanie Możliwości 💡
 
+<br>
+Proces Generowania pomysłów - Ideate 
+
+Storyboard i analiza konkurencji 
+
+| Nazwy innych platform, e-commerce,                           |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Nazwy innych platform, e-commerce, Które przytoczyli użytkownicy w trakcie wywiadów | Alliexpress, Amazon Alibaba, Ceneo,                          |
+| Postanowiłam przeanalizować jedną z podanych plaform i sprawdzić ją pod względem heurystyk. | **Kryteria Oceny:** Heurystyki : - Czytelność systemu podczas zakupu na platformie mobilnej - Spójość i standard z wersją webową i wersją mobilną |
+| Wybraną platformą było Aliexpress, ponieważ ( była to platformą, która wśród użytkowników była dobrze oceniania) | Cel:Poprawa użyteczności.                                    |
+
+- Zminimalizować obciążenie poznawcze 
+
+- Utrzymywanie użytkowników poinformowanych podczas zakupów.
+
+Na czym byłam skupiona podczas analizy konkurencji ?
+
+Analiza User Flow i funkcji informujących użytkownika .
 ---   
 <br>
 
