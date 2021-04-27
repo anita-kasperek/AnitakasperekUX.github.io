@@ -64,7 +64,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 <br>
-**Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. Koncepcja rozszrza jedną stronę aplikacji, o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
+**Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. <br>
+Koncepcja rozszrza jedną stronę aplikacji, o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
 [zdjęcie końcowe]
 <br>
 
@@ -76,11 +77,6 @@ większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i doku
 Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 [Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
 
-
-
-<br>
- 
- 
  
  
 <details><summary><b>Dokładny opis procesu</b></summary> 
