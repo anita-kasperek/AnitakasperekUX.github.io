@@ -46,8 +46,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 2.Problem 🔮
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/problem.png)
-
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)
+<br>
 
 
 <details><summary><b>Pytanie: ❓</b></summary> Jak można rozwiązać problem braku dostarczenia niewystarczających informacji zwrotnych aplikacji i zapobiec generowania błędów ?<br> </details>
