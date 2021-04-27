@@ -41,6 +41,3 @@ Gdybyś z jakiś względów potrzebował [pobrać moje CV](https://drive.google.
 udostępniłam go na dysku Google. 
 
 
- ![image-text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/cv2.png){:target="_blank"}
-
-
