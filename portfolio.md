@@ -106,33 +106,16 @@ Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których u
 
 Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakoało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
 
-Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać. 
- <br></details>
+Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
  
  
 -------
-
 <br>
 
-<br>
-<br>
-
------
-
-<br>
-
-<br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
 <br>
-<br>
-<br>
 
-
-
-<br>
-
-
-## 4.Research 🔮 [^1]
+## 4.Research 🔮 
 
 Persona/Kontekst/ Dla kogo / Dane 
 
