@@ -114,11 +114,12 @@ Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały
 <br>
 
 
-**Szukanie Możliwości** - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
+<b>Szukanie Możliwości</b> - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
 <br>
-**Prototypowanie** - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
+<b>Prototypowanie</b> - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
 <br>
-**Testowanie** - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
+<b>Testowanie</b> - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
+ 
  <br>
  
 -------
