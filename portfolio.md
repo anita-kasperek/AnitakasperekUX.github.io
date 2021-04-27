@@ -68,7 +68,14 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ## 3.Proces 🔄
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
-Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam <u>fazę research</u> do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie. <br>
+ <br>
+<details><summary><b>Dokładny opis procesu</b></summary> 
+  Strategia: 
+  Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę [research](#research) do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
+  
+  <br></details>
+
+
 
 **Założenia:** 
 Zastanowiłam się również, jakimi metodami, mogłabym efektywnie uzyskać efekt, który byłby zadowalający (MVP),
