@@ -92,7 +92,7 @@ Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną gra
 <br><br>
 
 
-<details><summary><b>Dokładny opis procesu:</b></summary> 
+<details><summary><b>Dokładniejszy opis procesu:</b></summary> 
  <b>Strategia:</b>
   
   <br>
