@@ -19,15 +19,16 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<details><summary><b>Motywacja:</b></summary> Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,było zaobserwowanie problemu w codziennym życiu, oraz wyłapanie błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. <br></details>
+<details><summary><b>Motywacja:</b></summary> Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,była obserwacja problemu w codziennym życiu.<br>
+Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. <br></details>
 
 ---
 
-<details><summary><b>Cel:</b></summary>Celem zadania było zebranie opinii i badanie rozwiązania pod względem zasad użyteczności. Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.<br></details>
+<details><summary><b>Cel:</b></summary>Celem zadania było zebranie opinii i badanie rozwiązania pod względem zasad użyteczności.<br> Natomiast celem końcowym, było zaprojektowanie propozycji która jest intuicyjna czy lepiej informuje użytkowników o ich działaniach.<br></details>
 
 ---
 
-<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></details>
+<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. <br>Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></details>
 
 ---
 
@@ -59,12 +60,14 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 ---
 
-<details><summary><b>Potencjalne Korzyści: 🎉 </b></summary> Usprawnienie informacji wizualnych i interakcji, przyspieszy proces zakupowy i uniknie błędów użytkownika Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji. Model Mentalny stałego użytkownika używającego wersji webowej, będzie spójniejszy.<br></details>
+<details><summary><b>Potencjalne Korzyści: 🎉 </b></summary> Usprawnienie informacji wizualnych, przyspieszy proces zakupowy i obniży ilość błędów użytkownika.<br>
+ Poprzez dodanie wskazówek wizualne, poprawi się użyteczność aplikacji.<br>
+Aplikacja byłaby spójniejsza z Modelem Mentalnym stałego użytkownika.<br></details>
 
 ---
 <br>
 **Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. <br>
-Koncepcja rozszrza jedną stronę aplikacji, o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
+Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
 [zdjęcie końcowe]
 <br>
 <br>
@@ -84,30 +87,32 @@ Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną gra
 
 
 <details><summary><b>Dokładny opis procesu</b></summary> 
-  Strategia: 
-  Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - ograniczyłam fazę research[^1] do krótkich wywiadów, spostrzeżeń, hipotezy i przeprowadziłam test użyteczności na jednej osobie.
+ **Strategia:**
+  <br>
+  Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - <br> ograniczyłam fazę research do krótkich wywiadów, spostrzeżeń, hipotezy, heurystykach, oraz testu użyteczności na jednej osobie.
   <br> 
-Zastanowiłam się również, jakimi metodami, mogłabym efektywnie uzyskać efekt, który byłby zadowalający (MVP),
-dlatego zdecydowałam się głównie na metodologiach takich jak:
-Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp*
+Myślałam również o tym, jakie metody są najważniejsze i pomogą osiągnąć mi cel (MVP),<br>
+dlatego zdecydowałam się głównie na:<br>
+Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp*<br>
 
-> * Z tym ostatnim ze względu na ograniczenie wiedzy miałam problem.
+> * Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze się męczę..<br>
 
-Zamiast skończyć Fazę Definiowania, przeszłam do szukania możliwości i rozrysowywania user flow i wireframeów. BYł to niestety błąd który wydłużył mi pracę i namieszał w procesie. 
-
-Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
+Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
+user flow i wireframeów. <br>Był to niestety błąd który wydłużył mi pracę i namieszał w procesie...
+<br>
+Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. <br>
 Proces:
-
+<br>
 Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania.
-
+<br>
 
 
 Szukanie Możliwości - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
-
-Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakoało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
-
+<br>
+Prototypowanie - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
+<br>
 Testowanie - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
- 
+ <br>
  
 -------
 <br>
