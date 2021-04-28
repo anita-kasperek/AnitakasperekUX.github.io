@@ -99,7 +99,7 @@ Myślałam również o tym, jakie metody są najważniejsze i jak najszybciej os
 dlatego zdecydowałam się głównie na:<br>
 Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp.<br>
 <br>
-<blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote><br>
+<blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote>
 
 Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
 user flow i wireframeów. Był to błąd prowadzenia fazy research. <br>Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania i nie podsumowywałam i walidowałam znalezisk.
