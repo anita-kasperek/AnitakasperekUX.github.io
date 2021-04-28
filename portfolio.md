@@ -85,7 +85,7 @@ Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 
 Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną grafikę. 
 
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Process.png)
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
 <br><br>
 
 
