@@ -228,3 +228,8 @@ Analiza User Flow i funkcji informujących użytkownika .
 
 
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
