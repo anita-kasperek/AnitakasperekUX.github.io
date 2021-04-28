@@ -220,7 +220,6 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 
 <br>**Błędy:**
 
-<br>
   - Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables i fazie research <br>
   - Nie wypisałam sobie dokładnie z założeniem i opisem szczegółowym jak mam coś wykonać i  ile ma mi to zająć. <br>
   - Próbowałam wyznaczyć sobie cele, które były ponad moje umiejętności i kosztowały mnie sporo czasu, ale udało mi się skończyć tak, jak sobie zaplanowałam. <br>
@@ -233,9 +232,10 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
 - PRaca tylko przed komputerem jest nieefektywna. Mimo wszystko trzeba robić notatki, używać karteczek, czy drukować podsumowane rzeczy i wieszać na ścianie by nabrać dystansu.
-- 
-**Co użyję w następnym projekcie:<br>
+<br>
 
+**Co użyję w następnym projekcie:**
+<br>
 Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
 
 - Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. <br>
