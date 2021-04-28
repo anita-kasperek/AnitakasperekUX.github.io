@@ -43,8 +43,6 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 
 
 
-<br>
-
 
 <br>
 ## 2.Problem 📣
