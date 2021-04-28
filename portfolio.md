@@ -47,6 +47,9 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 <br>
 ## 2.Problem 📣
 
+
+Tutaj wstawiłabym coś jeszcze o procesie. 
+
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)
 <br>
 
@@ -130,11 +133,14 @@ Kontekst**
 
 Błąd kosztował ją trochę czasu, by anulować zamówienia. 
 
-Na szczęście karta bankowa podłączona do konta na pobranie tak dużej sumy, zażądała autoryzacji i w porę zdążyła zrezygnować z płatności i zrezygnowała zupełnie z płatności automatycznej Allegro.
 
 <br>
 
-> Spostrzeżenie: Niemniej jednak, przy mniejszych płatnościach, aplikacja 
+
+Płatnośc za pomocą karty, nie zdecydowałam się opracować w tym zadaniu. Niemniej jednak, opisanie tego jako spostrzeżenie wydało mi się ważne. 
+> Spostrzeżenie: Na szczęście karta bankowa podłączona do konta na pobranie tak dużej sumy, zażądała autoryzacji i w porę zdążyła zrezygnować z płatności i zrezygnowała zupełnie z płatności automatycznej Allegro.
+> 
+> <br>Niemniej jednak, przy mniejszych płatnościach, aplikacja 
 >
 > nie wysyła takich komunikatów.
 
