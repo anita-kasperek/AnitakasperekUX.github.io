@@ -79,12 +79,10 @@ Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyb
  Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
 większości elementów. <br>Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
 
-Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
-[Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
+Udostępniłam również [tutaj nieobrobione szkice z procesu powstawania zadania.](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
 <br>
 
-Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną grafikę. 
-
+Aby poukładać swój plan działania,myśli i poćwiczyć Figmę, podsumowałam Proces w jedną grafikę. 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
 <br><br>
 
