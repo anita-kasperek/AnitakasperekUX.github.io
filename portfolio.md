@@ -143,9 +143,37 @@ Persona/Kontekst/ Dla kogo / Dane
 ## 6.Szukanie Możliwości 💡
 
 <br>
-Proces Generowania pomysłów - Ideate 
 
-Storyboard i analiza konkurencji 
+W tej części, w której była możliwość na generowanie pomysłów była możliwość na eksplorowanie, szkicowanie różnych rozwiązań, 
+analizowałam i sprawdzałam potencjał i różne możliwości. 
+
+[Tutaj dostępne jest zdjęcie rysunków które powstawały w tej fazie]
+
+
+UXowe artefakty nad którymi pracowałam w te fazie to min. Storyboard, Analiza Konkurencji, czy zapisa pomysłów na karteczkach. 
+
+Sprawdzałam między innymi, jakie rozwiązania ma konkurencja, albo jakie są stosowane zasady, podczas wybranego przepływu użytkownika.<br>
+
+Zamiast złożonych analiz różnych aplikacji czy funkcji, skupiłam się na wybranych aspektach które określiłam w fazie Definiowania.<br>
+
+Podsumowaniem tej fazy w formie wizualnej, było  pokazanie graficznego "Przepływu Użytkownika", oraz porównanie Wersji mobilnej i ich funkcji do Wersji Webowej.<br>
+Tak, aby mieć punkt odniesienia 
+
+---
+
+<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. <br>Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></details>
+
+---
+
+
+<br>
+
+
+
+
+
+
+
 
 | Nazwy innych platform, e-commerce,                           |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -153,6 +181,8 @@ Storyboard i analiza konkurencji
 | Postanowiłam przeanalizować jedną z podanych plaform i sprawdzić ją pod względem heurystyk. | **Kryteria Oceny:** Heurystyki : - Czytelność systemu podczas zakupu na platformie mobilnej - Spójość i standard z wersją webową i wersją mobilną |
 | Wybraną platformą było Aliexpress, ponieważ ( była to platformą, która wśród użytkowników była dobrze oceniania) | Cel:Poprawa użyteczności.                                    |
 
+
+**Kryteria Oceny:** 
 - Zminimalizować obciążenie poznawcze 
 
 - Utrzymywanie użytkowników poinformowanych podczas zakupów.
@@ -160,8 +190,15 @@ Storyboard i analiza konkurencji
 Na czym byłam skupiona podczas analizy konkurencji ?
 
 Analiza User Flow i funkcji informujących użytkownika .
----   
-<br>
+
+--- 
+
+
+[ masz 2 grafiki, jedna to alliexpress druga to 
+
+
+
+<br> 
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Poro%CC%81wnanie%20wersji%20mobilnej%20do%20webowej%20-%20Alliexpress%20copy.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Poro%CC%81wnanie%20wersji%20mobilnej%20do%20webowej%20-%20Alliexpress%20copy.png)
 <br>
