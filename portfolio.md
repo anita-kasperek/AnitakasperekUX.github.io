@@ -32,24 +32,18 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 
 ---
 
+|                                                    |                                                              |
+| :------------------------------------------------- | ------------------------------------------------------------ |
+| **Co:**                                            | Ćwiczenie Projektowe                                         |
+| **Czas:**                                          | Marzec - Kwiecień 2021                                       |
+| **Narzędzia:**                                     | Papier i dużo kartek, Drukarka, Typora, Figma, Github        |
+| **Proces:**                                        | Design Thinking, Lean Design;                                |
+| **Materiały i źródła których użyłam w projekcie:** | -[Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}  [Gradient](https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/){:target="_blank"} <br><b>Wiedza:</b> Przeróżne materiały UXowe, własne notatki. Storny takie jak IDF, czy NNGroup<br> [Jekyll - Template](https://github.com/eliottvincent/bay){:target="_blank"} |
 
-|                |                                                |
-| :------------- | ---------------------------------------------- |
-| **Co:**        | Ćwiczenie Projektowe                           |
-| **Czas:**      | Marzec - Kwiecień 2021                         |
-| **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma, Github |
-| **Proces:**    | Design Thinking, Lean Design;                  |
+
 
 
 <br>
-
-
-Źródła z których korzystałam -[Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}
- Gradient: https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/
-Wiedza: Przeróżne materiały UXowe, własne notatki. Storny takie jak IDF, czy Normans Group.
-<br>
-Do Postawienia końcowego Case Study, stworzyłam repozytorium na githubie, oraz ściągnęłam template w Jekyll od: ...[LINK] i następnie dopasowywałam do swoich potrzeb. 
-Notatki, tworzyłam w Typorze, a brakujące kody Markdown, HTML szukałam w przeglądarce. 
 
 
 <br>
