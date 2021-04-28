@@ -45,7 +45,8 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 
 
 Źródła z których korzystałam -[Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}
-
+ Gradient: https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/
+Wiedza: Przeróżne materiały UXowe, własne notatki. Storny takie jak IDF, czy Normans Group.
 <br>
 
 
