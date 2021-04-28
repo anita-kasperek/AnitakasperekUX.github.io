@@ -75,7 +75,7 @@ Aplikacja byłaby spójniejsza z Modelem Mentalnym stałego użytkownika.<br></d
 
 ---
 <br>
-**Rozwiązanie:** Propozycja wskazówek wizualnych i analiza użyteczności w istniejącej aplikacji Allegro. <br>
+**Rozwiązanie:** Propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. <br>
 Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów.
 [zdjęcie końcowe]
 <br>
