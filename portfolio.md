@@ -108,15 +108,11 @@ Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototy
 <blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote><br>
 
 Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
-user flow i wireframeów. <br>Był to niestety błąd który wydłużył mi pracę i namieszał w procesie...
+user flow i wireframeów. Był to błąd prowadzenia fazy research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania, zamiast podsumowywać i walidować wcześniej znaleziska i proces.
+<br>Był to niestety błąd który wydłużył mi pracę i namieszał w procesie...
 <br>
-Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. <br>
-Proces:
+Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
 <br>
-Mimo wszystko poległam w fazie research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania, zamiast podsumowywać i walidować wcześniej znaleziska i proces.
-<br>
-
-
 <b>Szukanie Możliwości</b> - Szukałam odniesień u konkurencyjnych stron, których używały osoby i najbardziej przypominały Allegro. 
 <br>
 <b>Prototypowanie</b> - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
