@@ -83,7 +83,7 @@ Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyb
 ## 3.Proces 🔄
 **Proces:** Jako podstawę procesu, założyłam Framework Design Thinking, oraz zasady Użyteczności.<br> 
  Mimo wszystko, proces był elastyczny, często wracałam do fazy ideacji czy badania problemu i polegał na częstej iteracji
-większości elementów. Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
+większości elementów. <br>Aby mieć lepszy obraz całościowy, drukowałam i dokumentowałam postępy i wieszałam je na ścianie. 
 
 Udostępniłam również nieobrobione szkice z procesu powstawania zadania.
 [Tutaj zobaczysz zdjęcia i szkice z procesu](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
@@ -101,15 +101,15 @@ Poniżej, podsumowałam proces i metodologie, oraz kroki działania w jedną gra
   <br>
   Aby proces nie zajął mi zbyt dużo czasu i był w miarę efektywny wobec wyznaczonych sobie celów - <br> ograniczyłam fazę research do krótkich wywiadów, spostrzeżeń, hipotezy, heurystykach, oraz testu użyteczności na jednej osobie.
   <br> 
-Myślałam również o tym, jakie metody są najważniejsze i pomogą osiągnąć mi cel (MVP),<br>
+Myślałam również o tym, jakie metody są najważniejsze i jak najszybciej osiągnąć cel i (MVP),<br>
 dlatego zdecydowałam się głównie na:<br>
 Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototyp.<br>
 <br>
 <blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote><br>
 
 Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
-user flow i wireframeów. Był to błąd prowadzenia fazy research. Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania, zamiast podsumowywać i walidować wcześniej znaleziska i proces.
-<br>Był to niestety błąd który wydłużył mi pracę i namieszał w procesie...
+user flow i wireframeów. Był to błąd prowadzenia fazy research. <br>Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania i nie podsumowywałam i walidowałam znalezisk.
+<br>Był to niestety błąd który wydłużył mi pracę i namieszał w głowie i procesie...
 <br>
 Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
 <br>
