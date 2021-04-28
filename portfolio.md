@@ -102,8 +102,8 @@ Mapa Empatii, User Flow, Analiza Heurystyczna i Konkurencji, Wireframe i Prototy
 <blockquote>Z tym ostatnim ze względu na ograniczenie wiedzy dotyczącej interakcji i obsługi metod prototypowania, jeszcze walczę..</blockquote>
 
 Zamiast skończyć Fazę Definiowania, zajęłam się szukaniem możliwości i rozrysowywaniem
-user flow i wireframeów. Był to błąd prowadzenia fazy research. <br>Zamiast od razu podsumować materiały, zbierałam jeszcze więcej materiału, ze względu że nie byłam zadowolona z użytych metod i szukałam lepszego rozwiązania i nie podsumowywałam i walidowałam znalezisk.
-<br>Był to niestety błąd który wydłużył mi pracę i namieszał w głowie i procesie...
+user flow i wireframeów. Był to błąd prowadzenia fazy research. <br>Powinnam od razu podsumować materiały i nie zbierać jeszcze więcej materiału (bo że nie byłam zadowolona z użytych metod, lub szukałam lepszego rozwiązania) i Nie podsumowywałam i walidowałam znalezisk w odpowiednim czasie.
+<br>Był to niestety błąd który wydłużył mi pracę i namieszał w głowie i procesie..
 <br>
 Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i notatek. Następnie przechodziłam do programu Figma. 
 <br>
@@ -216,41 +216,34 @@ Analiza User Flow i funkcji informujących użytkownika .
 
 ## 9.Podsumowanie 💭
 
-# Podsumowanie
+Była to spora lekcja, w której nauczyłam się by całościowo myśleć o projekcie.
 
--  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
+<br>**Błędy:**
 
-- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. 
-
-- Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. 
-
-- Muszę opanować dobrze narzędzia do prototypowania i szybszej walidacji  pomysłów.
-
-- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
-
-- Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
-
-- Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
-
-- Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
-
- 
-
-## LAST - SPOSTRZEŻENIA | CZEGO SIĘ NAUCZYŁAM
-  Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables. 
-- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. 
-- Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. 
-- Muszę opanować dobrze narzędzia do prototypowania i szybszej walidacji  pomysłów.
-- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
-- Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
+<br>
+  - Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables i fazie research <br>
+  - Nie wypisałam sobie dokładnie z założeniem i opisem szczegółowym jak mam coś wykonać i  ile ma mi to zająć. <br>
+  - Próbowałam wyznaczyć sobie cele, które były ponad moje umiejętności i kosztowały mnie sporo czasu, ale udało mi się skończyć tak, jak sobie zaplanowałam. <br>
+**Spostrzeżenia:**
+<br>
+- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. <br>
+-  Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
+- Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
 - Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
 - PRaca tylko przed komputerem jest nieefektywna. Mimo wszystko trzeba robić notatki, używać karteczek, czy drukować podsumowane rzeczy i wieszać na ścianie by nabrać dystansu.
-- Nie wypisałam sobie dokładnie włącznie z założeniem i opisem szczegółowym jak coś wykonuję, ile ma mi to zająć. Generalnie zostawiłam sobie jako że jest to pierwszy taki projekt, że przecież dopiero się uczę i nie wiem jak wszystko jeszcze zrobić efektywnie. 
-- Probowałam wyznaczyć sobie cele ale był ponad moje siły. Postanowiłam, że wykonam pełny proces włącznie z prototypem i postawieniem strony , oraz dopracowaniem UI i interakcji. Nie udało się.
-- Zrezygnowałam z kopletnej fazy research - Zamiast Testu Użyteczności, który powinnam przeprowadzić od razu i przygotować pytania takie jak:
-- --------------- Przeprowadziłam analizę heurystyczną, zakładając że tak będzie szybciej i efektywniej i że tym sposobem pokażę więcej UX Deliverables. 
+- 
+**Co użyję w następnym projekcie:<br>
+
+Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
+
+- Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. <br>
+
+- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
+
+
+
 
 
 
