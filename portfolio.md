@@ -53,7 +53,7 @@ Notatki, tworzyłam w Typorze, a brakujące kody Markdown, HTML szukałam w prze
 
 
 <br>
-## 2.Problem 🔮
+## 2.Problem 📣
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Problem.png)
 <br>
@@ -137,7 +137,7 @@ Persona/Kontekst/ Dla kogo / Dane
 <br>
 
 
-## 5.Definiowanie 🔮
+## 5.Definiowanie 🧭
 
 
 <br>
@@ -214,22 +214,18 @@ Analiza User Flow i funkcji informujących użytkownika .
 <br>
 
 
-## 7.Prototypowanie 🔮
+## 7.Prototypowanie 🔨
 
 <br>
 
 
-## 8.Testowanie  🔮
+## 8.Testowanie  ♾️
 
 
 <br>
 
-## 9.Podsumowanie  🔮
+## 9.Podsumowanie 💭
 
 
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
 
