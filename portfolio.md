@@ -83,7 +83,7 @@ większości elementów. <br>Aby mieć lepszy obraz całościowy, drukowałam i 
 Udostępniłam również [tutaj nieobrobione szkice z procesu powstawania zadania.](https://drive.google.com/drive/folders/1Jrn7BMb4GC7GlBkSpo0FqAbGpU1yLDKP?usp=sharing){:target="_blank"}
 <br>
 
-Aby poukładać swój plan działania,myśli i poćwiczyć Figmę, podsumowałam Proces w jedną grafikę. 
+Aby poukładać swój plan działania,myśli i poćwiczyć Figmę, podsumowałam Proces w jedną grafikę. <br>
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Proces.png)
 <br><br>
 
@@ -246,15 +246,20 @@ Analiza User Flow i funkcji informujących użytkownika .
 
 Była to spora lekcja, w której nauczyłam się by całościowo myśleć o projekcie i przekraczać strefę komfortu. 
 
-<br>**Błędy jakie popełniłam:**<br>
+
+<details><summary><b><br>Błędy jakie popełniłam:<br> </b></summary>
 
 - Doprowadziłam późno do fazy testu; 
 - Za bardzo skupiłam się na fazie research i ux deliverables;
 - Nie pilnowałam czasu poświęconego na każdy etap; 
-- Wyznaczone sobie cele, były trochę ponad moje możliwości; 
-  - 
-**Spostrzeżenia:**
+- Wyznaczone sobie cele, były trochę ponad moje możliwości; <br></details>
+
+------
+
 <br>
+<details><summary><b><br><b>Spostrzeżenia:</b><br> </b></summary>
+
+- <br>
 - Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam; <br>
 -  Starać się nie doprowadzać do dużej ilości zaległości, albo lepiej tworzyć priorytety;
 - Kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego;
@@ -262,15 +267,19 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
 - PRaca tylko przed komputerem jest nieefektywna. Mimo wszystko trzeba robić notatki, używać karteczek, czy drukować podsumowane rzeczy i wieszać na ścianie by nabrać dystansu.
-<br>
+<br> <br></details>
+-----
 
-**Co użyję w następnym projekcie:**
+<details><summary><b><br>
+  <b>Co użyję w następnym projekcie:**</b> </b></summary>
+
 <br>
 Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
 - Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
 - Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. <br>
 
-- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
+- Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza.  <br></details>
+----
 
 
 
