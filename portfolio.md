@@ -37,7 +37,7 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 | :------------- | ---------------------------------------------- |
 | **Co:**        | Ćwiczenie Projektowe                           |
 | **Czas:**      | Marzec - Kwiecień 2021                         |
-| **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma; |
+| **Narzędzia:** | Papier i dużo kartek, Drukarka, Typora, Figma, Github |
 | **Proces:**    | Design Thinking, Lean Design;                  |
 
 
