@@ -156,6 +156,11 @@ Persona/Kontekst/ Dla kogo / Dane
 
 
 ## 5.Definiowanie 🧭
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/user%20flow%20.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/user%20flow%20.png)
+<br>
+
+---  
+
 
 
 <br>
