@@ -48,6 +48,8 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
  Gradient: https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/
 Wiedza: Przeróżne materiały UXowe, własne notatki. Storny takie jak IDF, czy Normans Group.
 <br>
+Do Postawienia końcowego Case Study, stworzyłam repozytorium na githubie, oraz ściągnęłam template w Jekyll od: ...[LINK] i następnie dopasowywałam do swoich potrzeb. 
+Notatki, tworzyłam w Typorze, a brakujące kody Markdown, HTML szukałam w przeglądarce. 
 
 
 <br>
