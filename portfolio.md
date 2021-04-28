@@ -120,13 +120,11 @@ Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i
 
 
 ## 4.Research 🔮 
-WYWIAD i GENEZA PROBLEMU 
-
-
-
-
+**
+Kontekst**
 <br>
-> *Jakiś czas temu, podczas prowadzenia normalnej rozmowy,
+
+> Jakiś czas temu, podczas prowadzenia normalnej rozmowy,
 >
 > koleżanka wyżaliła się o swojej frustracji, ale również winiła się za roztargnienie, którego efektem był zakup zbyt dużej części produktów z koszyka aplikacji Allegro.
 >
