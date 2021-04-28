@@ -142,6 +142,10 @@ Persona/Kontekst/ Dla kogo / Dane
 
 ## 6.Szukanie Możliwości 💡
 
+<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. <br>Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></details>
+
+---
+
 <br>
 
 W tej części, w której była możliwość na generowanie pomysłów była możliwość na eksplorowanie, szkicowanie różnych rozwiązań, 
@@ -159,11 +163,6 @@ Zamiast złożonych analiz różnych aplikacji czy funkcji, skupiłam się na wy
 Podsumowaniem tej fazy w formie wizualnej, było  pokazanie graficznego "Przepływu Użytkownika", oraz porównanie Wersji mobilnej i ich funkcji do Wersji Webowej.<br>
 Tak, aby mieć punkt odniesienia 
 
----
-
-<details><summary><b>Kto brał w nim udział:</b></summary> Niestety tylko ja. <br>Proces i wyniki konsultowałam 2 razy z projektantem spoza branży IT. <br>Do tego były jeszcze osoby z którymi przeprowadzałam wywiady.<br></details>
-
----
 
 
 <br>
