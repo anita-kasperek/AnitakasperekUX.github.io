@@ -120,6 +120,34 @@ Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i
 
 
 ## 4.Research 🔮 
+WYWIAD i GENEZA PROBLEMU 
+
+
+
+
+<br>
+> *Jakiś czas temu, podczas prowadzenia normalnej rozmowy,
+>
+> koleżanka wyżaliła się o swojej frustracji, ale również winiła się za roztargnienie, którego efektem był zakup zbyt dużej części produktów z koszyka aplikacji Allegro.
+>
+> Dostrzegłam w tej sytuacji ciekawy temat na studium, popytałam o więcej szczegółów,
+
+<br>
+
+Błąd kosztował ją trochę czasu, by anulować zamówienia. 
+
+Na szczęście karta bankowa podłączona do konta na pobranie tak dużej sumy, zażądała autoryzacji i w porę zdążyła zrezygnować z płatności i zrezygnowała zupełnie z płatności automatycznej Allegro.
+
+<br>
+
+> Spostrzeżenie: Niemniej jednak, przy mniejszych płatnościach, aplikacja 
+>
+> nie wysyła takich komunikatów.
+
+<br>
+
+
+
 
 Persona/Kontekst/ Dla kogo / Dane 
 
@@ -216,18 +244,20 @@ Analiza User Flow i funkcji informujących użytkownika .
 
 ## 9.Podsumowanie 💭
 
-Była to spora lekcja, w której nauczyłam się by całościowo myśleć o projekcie.
+Była to spora lekcja, w której nauczyłam się by całościowo myśleć o projekcie i przekraczać strefę komfortu. 
 
-<br>**Błędy:**
+<br>**Błędy jakie popełniłam:**<br>
 
-  - Powinnam szybciej doprowadzić do fazy testu pomysłu, a nie skupiać się na ilości UX Deliverables i fazie research <br>
-  - Nie wypisałam sobie dokładnie z założeniem i opisem szczegółowym jak mam coś wykonać i  ile ma mi to zająć. <br>
-  - Próbowałam wyznaczyć sobie cele, które były ponad moje umiejętności i kosztowały mnie sporo czasu, ale udało mi się skończyć tak, jak sobie zaplanowałam. <br>
+- Doprowadziłam późno do fazy testu; 
+- Za bardzo skupiłam się na fazie research i ux deliverables;
+- Nie pilnowałam czasu poświęconego na każdy etap; 
+- Wyznaczone sobie cele, były trochę ponad moje możliwości; 
+  - 
 **Spostrzeżenia:**
 <br>
-- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam. <br>
--  Nawet jeśli mam nieporządek w głowie i akurat stoję z jakimś problemem pod ścianą albo nie wiem jak coś zrobić - kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego.
-- Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
+- Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam; <br>
+-  Starać się nie doprowadzać do dużej ilości zaległości, albo lepiej tworzyć priorytety;
+- Kategoryzować dobrze to co robię, spróbować podsumować także problem, cofnąć się i spróbować czegoś innego;
 - Być jak UXowa Marie Kondo. Każdej informacji czy znalezisku przypisać miejsce, weryfikować jak najwcześniej rzeczy które "przynoszą i wnoszą wartość do projektu" . Nie pozwolić by wdarł się chaos i zbyt nieujarzmiona kreatywność do całego procesu.
 - Trzeba wiedzieć kiedy odpuścić i opanować swoje realne możliwości.
 - Priorytyzacja. 
@@ -237,7 +267,7 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 **Co użyję w następnym projekcie:**
 <br>
 Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
-
+- Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
 - Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. <br>
 
 - Nie udawać, że pracuje zawsze iteracyjnie, podsumowywać i kategoryzować materiały i znaleziska jak najszybciej by nie robić sobie zaległości, które późniejsze opanowanie zajmuje zbyt dużo czasu i wykańcza. 
