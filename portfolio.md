@@ -38,7 +38,7 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 | **Czas:**                                          | Marzec - Kwiecień 2021                                       |
 | **Narzędzia:**                                     | Papier i dużo kartek, Drukarka, Typora, Figma, Github        |
 | **Proces:**                                        | Design Thinking, Lean Design;                                |
-| **Materiały których użyłam:** | -[Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}  [Gradient](https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/){:target="_blank"} [Jekyll - Template](https://github.com/eliottvincent/bay){:target="_blank"} |
+| **Materiały których użyłam:** | [Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}  [Gradient](https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/){:target="_blank"} [Jekyll - Template](https://github.com/eliottvincent/bay){:target="_blank"} |
 
 
 
