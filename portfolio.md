@@ -243,10 +243,10 @@ Empatyzacja
 **Test użyteczności**
 
 <br>
-Tutaj, widać jak aplikacja obecnie reaguje w przypadku zaznaczania produktów z koszyka. 
-Użytkownik dostaje informację zwrotną w postaci odświeżenia przycisku (z koloru szary na pomarańczowy) 
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/allegro%20-%20usability%20analysis%20-%20task%20analysis%20-%20.gif" width="360" height="710" />
 
+<p style="Tutaj, widać jak aplikacja obecnie reaguje w przypadku zaznaczania produktów z koszyka. 
+Użytkownik dostaje informację zwrotną w postaci odświeżenia przycisku (z koloru szary na pomarańczowy) 
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/allegro%20-%20usability%20analysis%20-%20task%20analysis%20-%20.gif" width="360" height="710" />"> and </p>
 <br>
 
 
