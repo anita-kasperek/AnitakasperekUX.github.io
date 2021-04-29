@@ -148,8 +148,67 @@ Płatnośc za pomocą karty, nie zdecydowałam się opracować w tym zadaniu. Ni
 
 
 
-
+<br>
 Persona/Kontekst/ Dla kogo / Dane 
+
+
+
+> kłopotu, który sprawiła jej aplikacja. W skrócie, dotyczył on nieumyślnych zakupów internetowych i co się z tym wiązało,   anulowanie sporej części zamówienia.*
+
+
+
+
+
+
+
+dotyczyły problemu z aplikacją i wyglądały mniej więcej tak:
+
+
+
+- W jakich okolicznościach doszło do tego błędu ? 
+- Co aktualnie robiła przed, w trakcie i po. Jaki miała rozkład dnia.
+- Na czym jej zależało w momencie używania aplikacjii co sprawiło,  że ją w tym momencie odpaliła?
+
+
+
+ bazując na informacjach z rozmowy i znajomością oosby z którą przeprowadziłam wywiad, zobrazowałam i podsumowałam cechy i kontekst w wizualny. 
+
+[persona]
+
+Starałam się również wygenerować hipotezę problemu, a także odkrywania i analizowania aplikacji na własną rękę podczas której zastanawiałam się i szukałam odpowiedzi na pytanie: 
+
+"Jakie sytuacje mogą generować błąd i frustracje użytkownika ? "
+
+Analizowałam różne przepływy użytkownika 
+
+  
+
+[zdjęcie affinity - pokazać wstępne spostrzeżenia ale czego? HIPOTEZA Problemu, co ] 
+
+Informacje do uzupełnienia mapowania Persony, wzięłam z własnych doświadczeń - znałam osoby z którymi przeprowadzałam wywiad. Mimo wszystko, starałam się wyłapać cechy i spostrzeżeń tych osób, które pasowałyby właśnie do tego problemu.
+
+
+
+Po zebraniu tych informacji (przeprowadzeniu wywiadu, który nie był formalnie wywiadem, bardziej swobodną rozmową w trakcie której nakierowywałam na uzyskanie odpowiedzi, które mnie interesowały) podsumowałam informacje 
+
+
+
+Ogólna sytuacja, była dla niej na pewno kłopotliwa i problematyczna i z tego co można powiedzieć trochę stresująca. Można ująć, że na pewno nie było to jej pozytywne doświadczenie które chciałaby kiedyś powtórzyć. 
+
+Popytałam się również kilku innych osób na temat doświadczeń z aplikacją, ale nie udało mi się zdobyć tak wartościowych informacji. Starałam się jednak, mieć je na uwadze. 
+
+Sytuację starałam się zobrazować w ...
+
+
+
+Empatyzacja
+
+
+
+[zdjecie podsumowywujące] - 
+
+
+
 
 
 <br>
