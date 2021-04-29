@@ -110,7 +110,33 @@ Defniowanie artefaktów, zaczynałam od zebrania danych, informacji o metodach i
 <br>
 <b>Prototypowanie</b> - Tutaj koncept został dopracowany ze szkicu - szukałam jeszcze innych rozwiązań ale brakowało mi ciekawych pomysłów i zespołu z którym mogłabym wymieniać się pomysłami. 
 <br>
-<b>Testowanie</b> - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.</details>
+<b>Testowanie</b> - Ta faze nie jest jeszcze skończona, feedback dopiero mam zamiar zebrać.<br>
+
+
+
+Jak można rozwiązać problem braku przejrzystości aplkacji a także 
+
+Jak obniżyć generowanie błędów użytkowników ? 
+
+Jak rozwiązać problem braku dostarczania informacji zwrotnych aplikacji podczas przepływu przez ścieżkę użytkownika. 
+
+
+
+Co zostało zmienione ? 
+
+Obcja wyboru wszystkich elementów 
+
+- informacja zwrotna o kosztach całkowitych podzcas zamawiania produktów w koszyku 
+- powiększenie przycisku
+- dodanie informacji o ilości zamówionych na 
+
+
+
+
+
+
+
+</details>
  
  <br>
  
