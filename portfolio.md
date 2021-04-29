@@ -239,6 +239,19 @@ Analiza User Flow i funkcji informujących użytkownika .
 
 ## 7.Prototypowanie 🔨
 
+Jako pierwsze do prototypowania wykorzystałam papierowe szkice, które powstały przy intensywnej fazie "Flow" i generowania różnych rozwiązań.>br>
+
+**Papierowe Prototypy** - Po zapoznaniu się z danymi po researchu i fazie ideacji i poznania rozwiązań konkurencji - próbowałam stworzyć szybko kilka propozycji odpowiednika możliwego rozwiązania. <br>
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/paper%20prototype.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/paper%20prototype.png)
+<br>
+
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Papierowe%20prototypy.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Papierowe%20prototypy.png)
+<br>
+
+
+
+
 <br>
 
 
