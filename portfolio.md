@@ -354,7 +354,7 @@ Jako pierwsze do prototypowania wykorzystałam papierowe szkice, które powstał
 Była to spora lekcja, w której nauczyłam się by całościowo myśleć o projekcie i przekraczać strefę komfortu. 
 
 
-<details><summary><b><br>Błędy jakie popełniłam:<br> </b></summary>
+<details><summary><b>Błędy jakie popełniłam:</b></summary>
 
 - Doprowadziłam późno do fazy testu; 
 - Za bardzo skupiłam się na fazie research i ux deliverables;
@@ -364,7 +364,7 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 ------
 
 <br>
-<details><summary><b><br><b>Spostrzeżenia:</b><br> </b></summary>
+<details><summary><b>Spostrzeżenia:</b></summary>
 
 - <br>
 - Proces i metody, są znacznie trudniejsze w implementacji niż sobie wyobrażałam; <br>
@@ -377,10 +377,9 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 <br> <br></details>
 -----
 
-<details><summary><b><br>
-  <b>Co użyję w następnym projekcie:**</b> </b></summary>
+<details><summary><b>
+  <b>Co użyję w następnym projekcie:** </b></summary>
 
-<br>
 Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
 - Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
 - Praca w zespole nad projektem z ustrukturyzowaną wiedzą na temat metod i ich opanowanie jest naprawdę wartościowe. <br>
