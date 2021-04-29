@@ -234,6 +234,8 @@ Empatyzacja
 [zdjecie podsumowywujące] - 
 
 
+**Test użyteczności**
+![Alt Text](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/allegro%20-%20usability%20analysis%20-%20task%20analysis%20-%20.gif)
 
 
 
