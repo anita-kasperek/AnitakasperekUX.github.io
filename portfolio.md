@@ -377,8 +377,9 @@ Była to spora lekcja, w której nauczyłam się by całościowo myśleć o proj
 <br> <br></details>
 -----
 
-<details><summary><b>
-  <b>Co użyję w następnym projekcie:** </b></summary>
+<details><summary>
+  <b>Co użyję w następnym projekcie:</b>
+  </summary>
 
 Kolejne kroki to proces, będę aktualizować case study zwłaszcza po zebraniu feedbacku,  <br>
 - Powinnam ćwiczyć i szlifować umiejętność obsługi narzędzi <br>
