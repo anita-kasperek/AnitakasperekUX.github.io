@@ -188,7 +188,8 @@ Persona/Kontekst/ Dla kogo / Dane
 > kłopotu, który sprawiła jej aplikacja. W skrócie, dotyczył on nieumyślnych zakupów internetowych i co się z tym wiązało,   anulowanie sporej części zamówienia.*
 
 
-
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Group%2026.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Group%2026.png)
+<br><br>
 
 
 
