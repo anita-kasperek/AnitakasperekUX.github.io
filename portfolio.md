@@ -11,8 +11,7 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
-https://www.figma.com/proto/v5nNqOrr7sCerWJbVeQzbk/Iteracja-3-Uk%C5%82adam-W-prezentacj%C4%99-materia%C5%82y?node-id=45%3A101&viewport=591%2C377%2C0.046367399394512177&scaling=scale-down&page-id=45%3A100
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv5nNqOrr7sCerWJbVeQzbk%2FIteracja-3-Uk%25C5%2582adam-W-prezentacj%25C4%2599-materia%25C5%2582y%3Fnode-id%3D45%253A101%26viewport%3D591%252C377%252C0.046367399394512177%26scaling%3Dscale-down%26page-id%3D45%253A100" allowfullscreen></iframe>
 
 
 [![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)
