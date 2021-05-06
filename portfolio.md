@@ -11,12 +11,8 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif" width="600">
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif" width="1200">
 
-
-[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/Intro.png)
-<br>
-<br>
 ## 1.Podstawowe Informacje  ℹ️ 
 
 
