@@ -11,7 +11,7 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif" width="1200">
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
 
 ## 1.Podstawowe Informacje  ℹ️ 
 
