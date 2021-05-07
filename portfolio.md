@@ -13,7 +13,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ---   
 <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
 
-###### 1.Podstawowe Informacje  ℹ️ 
+##### 1.Podstawowe Informacje  ℹ️ 
 
 
 
