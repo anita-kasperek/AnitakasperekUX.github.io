@@ -18,9 +18,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <details><summary><b>Motywacja:</b></summary> Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,była obserwacja problemu w codziennym życiu.<br>
 Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. <br></details>
 
-
+---
 
 <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv5nNqOrr7sCerWJbVeQzbk%2FProces-Case-Study%3Fnode-id%3D382%253A2806%26viewport%3D299%252C327%252C0.03351299837231636%26scaling%3Dscale-down%26page-id%3D381%253A1" allowfullscreen></iframe>
+
 
 
 |                                                    |                                                              |
