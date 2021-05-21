@@ -11,8 +11,10 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
+<p align="center">
+    // #### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
+</p>
 
-##### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
 
 
 <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
