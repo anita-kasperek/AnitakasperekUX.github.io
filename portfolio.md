@@ -39,9 +39,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 ##### Prezentacja kompletnej analizy case study - Figma 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="640" height="480" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fv5nNqOrr7sCerWJbVeQzbk%2FProces-Case-Study%3Fnode-id%3D382%253A2806%26viewport%3D299%252C327%252C0.03351299837231636%26scaling%3Dscale-down%26page-id%3D381%253A1" allowfullscreen></iframe>
 
-<br><br>
-#### Prototyp wskazówek wizualnych - Framer 
-
+<br
 
 <b>Co pokazuje prototyp ?</b>
 Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. <br> 
@@ -49,6 +47,9 @@ Jest to propozycja wskazówek wizualnych.
 
 <b>Jak powstał prototyp:</b> 
 Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie z zaprojektowanymi nowymi elementami. Projekt przeimportowałam do Framera i dokończyłam interakcje.
+
+<br>
+##### Prototyp wskazówek wizualnych - Framer 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
