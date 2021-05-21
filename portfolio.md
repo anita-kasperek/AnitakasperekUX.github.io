@@ -47,39 +47,34 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
+<details><summary><b>Co pokazuje prototyp ?</b></summary> Sposób pracy: 
 
-
-Framer.- Prototyp 
-Propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. 
-
+Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. <br> 
+Jest to propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. 
 Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów. 
 
+  <br></details>
+<br>
 
 
-Co staram się pokazać za pomocą prototypu:
+<details><summary><b>Korzyści</b></summary> Sposób pracy: 
 
-Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. 
+Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br></details>
+<br>
 
+<details><summary><b>Jak powstał prototyp:</b></summary> Sposób pracy: 
 
-
-Korzyści: Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. 
-
-
-
-Prototyp: 
-
-Sposób pracy: 
-
-Ptototyp stworzyłam na podstawie istniejącej aplikacji, którą odtworzyła w Figmie i przeimportowałam do Framera, aby dokończyć interakcje. 
+Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie z zaprojektowanymi nowymi elementami. Projekt przeimportowałam do Framera i dokończyłam interakcje.<br></details>
+<br>
 
 
-
-Co dodałam: 
-
-Dołożyłam panel informujący, który informuje użytkownika o ilości zaznaczonych produktów
-
-- daje użytkownikowi łatwą dostępność zaznacznia i odznaczenia całego koszyka w szybki sposób 
-- - informuje użytkownika na wczesnym etapie, ile wynoszą zaznaczane produkty 
+<details><summary><b>Co dodałam:</b></summary>
+Skrócenie menu do 1 funkcji <br>
+Zsumowana ilość zaznaczonych produktów<br>
+Możliwość zaznaczenia i odznaczenia wszystkich produktów w koszyku <br>
+Powiększenie Przycisku "Do Kasy" <br>
+Status pokazujący  zaznaczone i podliczone  produkty z Koszyka 
+<br></details>
 
 
 
