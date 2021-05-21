@@ -12,7 +12,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
 <p align="center">
-                       <h4> Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ </h4>
+                       <h4> PROJEKT WSKAZÓWEK WIZUALNYCH - APLIKACJA ALLEGRO  ℹ️ </h4>
 </p>
 
 
