@@ -42,11 +42,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 <br>
 #### Prototyp
 <br>
-<b>Co pokazuje prototyp ?</b>
+<b>Co pokazuje prototyp ?</b> <br>
 Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. <br> 
 Jest to propozycja wskazówek wizualnych.
 
-<b>Jak powstał prototyp:</b> 
+<b>Jak powstał prototyp ?</b>  <br>
 Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie z zaprojektowanymi nowymi elementami. Projekt przeimportowałam do Framera i dokończyłam interakcje.
 
 <br>
