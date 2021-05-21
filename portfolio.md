@@ -19,6 +19,8 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
   
   
 ##### Podstawowe informacje    
+
+
 |                 |                                                              |
 | :-------------- | ------------------------------------------------------------ |
 | **Co:**         | Ćwiczenie Projektowe                                         |
