@@ -12,7 +12,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
 
-### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
+##### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
 
 <details><summary><b>Problem:</b></summary>   Aplikacja podczas zaznaczania przez użytkownika produktów nie informuje go o zmianach, jakich dokonał. 
   <br></details>
@@ -26,8 +26,7 @@ Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, A
   <br></details>
   
 
-
----
+<br>
 
 <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
 
