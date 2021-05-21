@@ -41,8 +41,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br><br>
 ##### Prototyp wskazówek wizualnych - Framer 
-Framer.- Prototyp 
 
+
+
+<br>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
+
+
+
+Framer.- Prototyp 
 Propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. 
 
 Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów. 
@@ -73,10 +80,6 @@ Dołożyłam panel informujący, który informuje użytkownika o ilości zaznacz
 
 - daje użytkownikowi łatwą dostępność zaznacznia i odznaczenia całego koszyka w szybki sposób 
 - - informuje użytkownika na wczesnym etapie, ile wynoszą zaznaczane produkty 
-
-
-<br>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
 
 
