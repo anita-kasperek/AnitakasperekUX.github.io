@@ -46,16 +46,15 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
-<details><summary><b>Co pokazuje prototyp ?</b></summary> Sposób pracy: 
+<details><summary><b>Co pokazuje prototyp ?</b></summary>
 
 Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. <br> 
-Jest to propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. 
-Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów. 
+Jest to propozycja wskazówek wizualnych.
 
   <br></details>
 
 
-<details><summary><b>Korzyści</b></summary> Sposób pracy: 
+<details><summary><b>Korzyści</b></summary> 
 
 Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br></details>
 
