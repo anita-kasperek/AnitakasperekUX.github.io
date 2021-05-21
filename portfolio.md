@@ -28,7 +28,6 @@ Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, A
   <br></details>
   
 
-<br>
 
 <img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/intro.gif">
 
