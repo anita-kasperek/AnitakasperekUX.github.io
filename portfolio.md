@@ -19,6 +19,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
   
 <details><summary><b>Cel:</b></summary>    Zbadanie aplikacji pod względem zachowań użytkownika i zasad użyteczności + szukanie możliwośći, zaproponowanie rozwiązań. Pokazanie całego procesu UX. 
   <br></details>
+  
+  <details><summary><b>Metody:</b></summary>  obserwacje, wywiady, User Flow, 
+Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, Affinity Mapping Wireframy,Prototyp 
+
+  <br></details>
+  
+
 
 ---
 
