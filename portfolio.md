@@ -11,9 +11,8 @@ og_image: "Intro"
 og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
-<p align="center">
-                     &nbsp;&nbsp;&nbsp;&nbsp;  <h5> PROJEKT WSKAZÓWEK WIZUALNYCH - APLIKACJA ALLEGRO  ℹ️ </h5>
-</p>
+  <h5>   &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; PROJEKT WSKAZÓWEK WIZUALNYCH - APLIKACJA ALLEGRO  ℹ️ </h5>
+
 
 
 
