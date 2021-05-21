@@ -12,7 +12,9 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
 
-##### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
+#### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
+<br>
+<br>
 
 <details><summary><b>Problem:</b></summary>   Aplikacja podczas zaznaczania przez użytkownika produktów nie informuje go o zmianach, jakich dokonał. 
   <br></details>
