@@ -12,11 +12,13 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
       
 ---   
 
-##### 1.Podstawowe Informacje  ℹ️ 
+### Projekt Wskazówek wizualnych dla Aplikacji Allegro  ℹ️ 
 
-
-<details><summary><b>Motywacja:</b></summary> Głównym czynnikiem, przez który zdecydowałam się na rozwiązanie tego tematu,była obserwacja problemu w codziennym życiu.<br>
-Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji allegro.<br/>Kolejny czynnik, to niewielki zakres problemu, który wydał się optymalny i realny do przeanalizowania, dla kogoś początkującego.<br> Motywacją była też chęć sprawdzenia różnych UX-owych metod w praktyce i pokazanie procesu. <br></details>
+<details><summary><b>Problem:</b></summary>   Aplikacja podczas zaznaczania przez użytkownika produktów nie informuje go o zmianach, jakich dokonał. 
+  <br></details>
+  
+<details><summary><b>Cel:</b></summary>    Zbadanie aplikacji pod względem zachowań użytkownika i zasad użyteczności + szukanie możliwośći, zaproponowanie rozwiązań. Pokazanie całego procesu UX. 
+  <br></details>
 
 ---
 
@@ -29,11 +31,10 @@ Polegała ona na wyłapaniu błędu użytkownika,gdy ten używał aplikacji alle
 
 |                                                    |                                                              |
 | :------------------------------------------------- | ------------------------------------------------------------ |
-| **Co:**                                            | Ćwiczenie Projektowe                                         |
-| **Czas:**                                          | Marzec - Kwiecień 2021                                       |
-| **Narzędzia:**                                     | Papier i dużo kartek, Drukarka, Typora, Figma, Github        |
-| **Proces:**                                        | Design Thinking, Lean Design;                                |
-| **Materiały których użyłam:** | [Mockup](https://www.figma.com/file/uQ03COUzB7vsrwqIrKvcvl/Phone-Mockups-Community){:target="_blank"}  [Gradient](https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/){:target="_blank"} [Jekyll - Template](https://github.com/eliottvincent/bay){:target="_blank"} |
+| **Co :**                                           | Ćwiczenie Projektowe                                         |
+| **Czas :**                                         | Kwiecień - Maj, 2021                                         |
+| **Narzędzia :**                                    | Papier i ołówek, Drukarka, Typora, Figma, Github, Framer     |
+| **Proces :**                                       | Design Thinking, Lean Design;                                |
 
 
 
