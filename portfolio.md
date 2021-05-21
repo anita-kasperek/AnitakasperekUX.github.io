@@ -41,6 +41,41 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br><br>
 ##### Prototyp wskazówek wizualnych - Framer 
+Framer.- Prototyp 
+
+Propozycja wskazówek wizualnych na podstawie analizy użyteczności w istniejącej aplikacji Allegro. 
+
+Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów. 
+
+
+
+Co staram się pokazać za pomocą prototypu:
+
+Jaka jest możliwość informowania użytkownika w momencie zaznaczania przez niego produktów. 
+
+
+
+Korzyści: Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. 
+
+
+
+Prototyp: 
+
+Sposób pracy: 
+
+Ptototyp stworzyłam na podstawie istniejącej aplikacji, którą odtworzyła w Figmie i przeimportowałam do Framera, aby dokończyć interakcje. 
+
+
+
+Co dodałam: 
+
+Dołożyłam panel informujący, który informuje użytkownika o ilości zaznaczonych produktów
+
+- daje użytkownikowi łatwą dostępność zaznacznia i odznaczenia całego koszyka w szybki sposób 
+- - informuje użytkownika na wczesnym etapie, ile wynoszą zaznaczane produkty 
+
+
+<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
 
