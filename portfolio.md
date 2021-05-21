@@ -44,7 +44,6 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 
 
-<br>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Aplikacja-Allegro--nLpeYBWMzKAC0WOM3iV5/jVLHmIuWFpLtIeJhqjv1O7-5%3A2430jrrgncicoig" allowfullscreen></iframe>
 
 <details><summary><b>Co pokazuje prototyp ?</b></summary> Sposób pracy: 
@@ -54,19 +53,15 @@ Jest to propozycja wskazówek wizualnych na podstawie analizy użyteczności w i
 Koncepcja rozszerza jedną stronę aplikacji o dodatkowe funkcje, które miałyby informować użytkownika o statusie zaznaczonych produktów. 
 
   <br></details>
-<br>
 
 
 <details><summary><b>Korzyści</b></summary> Sposób pracy: 
 
 Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br></details>
-<br>
 
 <details><summary><b>Jak powstał prototyp:</b></summary> Sposób pracy: 
 
 Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie z zaprojektowanymi nowymi elementami. Projekt przeimportowałam do Framera i dokończyłam interakcje.<br></details>
-<br>
-
 
 <details><summary><b>Co dodałam:</b></summary>
 Skrócenie menu do 1 funkcji <br>
