@@ -4,8 +4,8 @@ title: Doświadczenie
 ---
  **Doświadczenie**
 <br>
-_Pomimo, że nie byłam związana zawodowo z branżą IT<br>
-wypisałam uniwersalne doświadczenia, które mogą być przydatne w wielu branżach._🙂
+_Moje doświadczenie w dziedzinie UX obejmuje projekty niekomercyjne, <br>
+poprzednio byłam związana z branżą architektoniczną. Poniżej wypisałam doświadczenia, które mogą są uniwersalne w wielu branżach._🙂
 <br><br><br>
 **Strategia Biznesowa**
 <br>
