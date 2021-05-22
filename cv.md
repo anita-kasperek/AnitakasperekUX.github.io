@@ -4,8 +4,8 @@ title: Doświadczenie
 ---
  **Doświadczenie**
 <br>
-_Moje doświadczenie w dziedzinie UX obejmuje projekty niekomercyjne, <br>
-poprzednio byłam związana z branżą architektoniczną. Poniżej wypisałam doświadczenia, które mogą są uniwersalne w wielu branżach._🙂
+_Moje doświadczenie w dziedzinie UX obejmuje na razie projekty niekomercyjne. <br> Prowadziłam także wstępne konsultacje z 2 startupami na temat możliwości potencjalnego rozwoju i współpracy.
+Poprzednio byłam związana z branżą architektoniczną. Poniżej wypisałam doświadczenia, które mogą są uniwersalne w wielu branżach._🙂
 <br><br><br>
 **Strategia Biznesowa**
 <br>
