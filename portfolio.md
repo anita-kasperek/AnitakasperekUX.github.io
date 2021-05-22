@@ -31,7 +31,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Metody:**     | obserwacje, wywiady, User Flow,Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, Affinity Mapping Wireframy,Prototyp |
 
 <br>
-#### Prototyp
+#### Podsumowanie - Design 
 
 <br><img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png">
 
