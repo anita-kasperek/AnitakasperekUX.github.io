@@ -59,7 +59,9 @@ Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywny
 
 
 
-
+<p style="
+<https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png" width="360" height="710" />"> and </p>
+<br>
 
 
 
