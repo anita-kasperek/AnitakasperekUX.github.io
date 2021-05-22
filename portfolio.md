@@ -58,11 +58,7 @@ Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie
 Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br>
 
 
-
-<p style="
-<https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png" width="360" height="710" />"> and </p>
-<br>
-
+<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png">
 
 
 
