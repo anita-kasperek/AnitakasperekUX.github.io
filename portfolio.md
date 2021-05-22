@@ -30,6 +30,11 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Proces:**     | Design Thinking, Lean Design;                                |
 | **Metody:**     | obserwacje, wywiady, User Flow,Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, Affinity Mapping Wireframy,Prototyp |
 
+<br>
+#### Prototyp
+
+<br><img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png">
+
 
 
 
@@ -56,9 +61,6 @@ Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie
 
 <b>Korzyści</b>
 Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br>
-
-
-<img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png">
 
 
 
