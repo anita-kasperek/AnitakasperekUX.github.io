@@ -32,8 +32,10 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 
 <br>
 #### Podsumowanie - Design 
+<br>
 
-<br><img src="https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png">
+[![image-text markdown="1"](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png)](https://raw.githubusercontent.com/AnitakasperekUX/AnitakasperekUX.github.io/main/assets/img/3%20Slajd.png)
+
 
 
 
