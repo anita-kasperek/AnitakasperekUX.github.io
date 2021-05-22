@@ -53,7 +53,9 @@ Prototyp powstał na bazie istniejącej aplikacji, którą odtworzyłam w Figmie
 <br>
 
 <b>Korzyści</b>
-Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. <br>
+Taki sposób, może potencjalnie obniżyć ilość błędów, zapobiec negatywnym odczuciom użytkownika i wzbudzić większe zaufanie, przyspieszyć konwersję, dać użytkownikowi kontrolę. 
+
+<br>
 
 #### Podsumowanie - Design 
 
