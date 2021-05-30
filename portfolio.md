@@ -27,7 +27,7 @@ og_image: /assets/img/Intro-Case-Study-Allegro.png
 | **Co:**         | Ćwiczenie Projektowe                                         |
 | **Czas:**       | Kwiecień - Maj, 2021                                         |
 | **Narzędzia:**  | Papier i ołówek, Drukarka, Typora, Figma, Github, Framer     |
-| **Proces:**     | Design Thinking, Lean Design;                                |
+| **Proces:**     | Design Thinking, Lean Design; UCD                            |
 | **Metody:**     | obserwacje, wywiady, User Flow,Heurystyki, Persona, Model Mentalny, Analiza Konkurencji, Szkice Możliwości, Affinity Mapping Wireframy,Prototyp |
 
 <br>
